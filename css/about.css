@@ -1,0 +1,28 @@
+#content {
+/*    background: url('/image/herb_full/HongHua__004.jpg') no-repeat;
+    background-size: 100%;
+    background-position: 0px -0px;
+*/
+}
+
+#rightsquare {
+  top:150px;
+  /*width:426px;*/  /*32px left and right padding, 490px total */
+/*  bottom:278px;
+  top:auto;
+*/
+}
+
+#rightsquare .title {
+  color:#8ca5be;
+}
+
+#rightsquare .content .section {
+  font-size:12px;
+  line-height:16px;
+  margin-bottom:22px;
+}
+
+#rightsquare .content .section:last-child {
+  margin-bottom:0px;
+}

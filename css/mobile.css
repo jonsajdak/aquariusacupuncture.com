@@ -1,0 +1,154 @@
+@media only screen 
+    and (min-device-width : 320px) 
+    and (max-device-width : 667px) 
+    and (-webkit-min-device-pixel-ratio : 2)
+{ 
+
+html,
+body {
+  overflow-x:none;
+  overflow-y:auto;
+}
+
+#topnav {
+  position:relative;
+  display:block;
+  height:65px;
+}
+
+#navLogoTop {
+    margin:15px auto;
+    width:85px;
+    height:50px;
+
+    background: transparent url('../image/logo.png');
+    background-size:85px 50px;
+}
+
+#menuButtonTop {
+    position:absolute;
+    left:25px;
+    top:10px;
+    padding-top:5px;
+    border:1px solid gray;
+    border-radius:2px;
+    width:40px;
+    height:25px;
+    text-align:center;
+    vertical-align:middle;
+}
+#navButtonTop {
+    position:absolute;
+    right:20px;
+    top:8px;
+}
+#navButtonTop input {
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+
+    padding:0px;
+    margin:0px;
+
+    background-color:#A7D4C4;
+    color:white;
+    font-family:'Lato';
+    font-weight:300;
+    font-size:14px;
+
+    width:50px;
+    height:40px;
+    border:0px;
+    border-radius:3px;
+    outline:none;
+}
+
+#leftnav {
+  display:none;
+}
+#content {
+     background: url('/image/background_home.jpg') no-repeat;
+    background-size:140%;
+    margin:0px 0px 0px 0px;
+
+    height:460px;
+    min-width:0;
+    min-height:0;
+    overflow:none;
+}
+#rightsquare {
+  display:none;
+}
+
+#mobilemenu {
+  display:none;
+  position:absolute;
+  top:80px;
+  z-index:500;
+  width:100%;
+}
+#mobilemenu.active {
+  display:block;
+}
+#mobilemenu .menuitem {
+  height:28px;
+  padding:7px 0px 0px 10px;
+  margin:2px 0px 0px 0px;
+  background-color: white;
+  opacity:.80;
+  color:black;
+}
+#mobilemenu .menuitem.active {
+  background-color:#8ca5be;
+  color:white;
+}
+#mobilemenu .menuitem a {
+    display:inline-block;
+    text-decoration:none;
+    color:#000000;
+    font-family:Arial;
+    font-size:15px;
+    width:100%;
+    height:100%;
+   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+#mobilemenu .menuitem a:link{
+    color:#000000;
+}
+#mobilemenu .menuitem a:visited	{
+    color:#000000;
+}
+#mobilemenu .menuitem a:hover	{
+    color:#000000;
+}
+#mobilemenu .menuitem a:active	{
+    color:#000000;
+}
+
+#bottomnav {
+  display:block;
+  z-index:100;
+  height:130px;
+  width:100%;
+  margin:0px auto;
+  background-color:white;
+}
+
+#navAddressBottom {
+   margin:10px 0px 0px 20px;
+   font-size:13px;
+}
+#navSocialIconsBottom {
+    margin:15px 0px 0px 20px;
+}
+#navSocialIconsBottom img {
+    margin:0px 20px 0px 0px;
+    height:19px;
+}
+
+#navCopyrightBottom {
+    margin:10px 0px 0px 20px;
+    font-size:10px;
+}
+
+
+}

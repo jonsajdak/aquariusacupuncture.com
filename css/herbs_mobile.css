@@ -1,0 +1,54 @@
+@media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 667px)
+    and (-webkit-min-device-pixel-ratio : 2)
+{
+
+#content {
+  width:100%;
+  position:relative;
+  background-size:160%;
+  background-position:top center;
+}
+
+#rightsquare {
+  width:426px;  /*32px left and right padding, 490px total */
+  bottom:278px;
+  top:auto;
+}
+
+#rightsquare .title {
+  color:#8ca5be;
+}
+
+#herbThumbs {
+    position:absolute;
+    bottom:15px;
+    right:0px;
+    width:225px;
+    max-width:400;
+    min-width:0;
+    height:210px;
+}
+
+.herb_thumb {
+    float:left;
+    margin:5px 0px 0px 5px;
+
+    width:45px;
+    height:45px;
+    border:2px solid white;
+
+    cursor:pointer;
+}
+.herb_thumb img {
+    width:45px;
+    height:45px;
+}
+
+.herb_thumb.active {
+    border: 4px solid rgba(140,165,190,.8); 
+    margin: 3px -2px -2px 3px;
+}
+
+}

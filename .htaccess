@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^herbs$ /herbs.php
+RewriteRule ^photo$ /photos.php
+RewriteRule ^about$ /about.php
