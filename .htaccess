@@ -3,6 +3,13 @@ RewriteBase /
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^acupuncture$ /acupuncture.php
 RewriteRule ^herbs$ /herbs.php
 RewriteRule ^photo$ /photos.php
 RewriteRule ^about$ /about.php
+
+
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /var/www/vhosts/sixcycle.com/aq/.htpasswd
+Require valid-user

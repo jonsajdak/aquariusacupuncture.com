@@ -25,6 +25,11 @@ body {
     background-size:85px 50px;
 }
 
+#navLogoTop img {
+  width:85px;
+  height:50px;
+}
+
 #menuButtonTop {
     position:absolute;
     left:25px;
@@ -42,6 +47,27 @@ body {
     right:20px;
     top:8px;
 }
+
+#2book_button_mobile {
+    text-decoration:none;
+
+    background-image:none !important;
+    background-color:#A7D4C4 !important;
+    color:white !important;
+    font-family:'Lato' !important;
+    font-weight:300 !important;
+    font-size:20px !important;
+
+    width:50px !important;
+    height:40px !important;
+    border:0px !important;
+    border-radius:3px !important;
+    outline:none !important;
+    text-shadow:none !important;
+    padding:5px 0px 0px 0px !important;
+    text-align:center !important;
+}
+
 #navButtonTop input {
     -webkit-appearance: none;
     -webkit-border-radius: 0;
@@ -66,7 +92,7 @@ body {
   display:none;
 }
 #content {
-     background: url('/image/background_home.jpg') no-repeat;
+    background: url('/image/background_home.jpg') no-repeat;
     background-size:140%;
     margin:0px 0px 0px 0px;
 
