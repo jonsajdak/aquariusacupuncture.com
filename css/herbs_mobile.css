@@ -7,8 +7,9 @@
 #content {
   width:100%;
   position:relative;
-  background-size:160%;
-  background-position:top center;
+  background-size:cover;
+  background-position: left center;
+  background-image: url(/image/herb_mobile/HongHua__004.jpg);
 }
 
 #rightsquare {
@@ -47,7 +48,7 @@
 }
 
 .herb_thumb.active {
-    border: 4px solid rgba(140,165,190,.8); 
+    border: 4px solid rgba(140,165,190,.8);
     margin: 3px -2px -2px 3px;
 }
 
