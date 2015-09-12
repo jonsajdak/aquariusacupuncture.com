@@ -1,8 +1,5 @@
 #content {
-/*    background: url('/image/herb_full/HongHua__004.jpg') no-repeat;
-    background-size: 100%;
-    background-position: 0px -0px;
-*/
+  background-image: url(/image/background_about_optimized.jpg);
 }
 
 #rightsquare {

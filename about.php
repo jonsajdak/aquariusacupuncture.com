@@ -1,6 +1,7 @@
 <?php include('header.php'); ?>
 
    <link rel="stylesheet" href="/css/about.css">
+   <link rel="stylesheet" href="/css/about_mobile.css">
 
    <div id="content">
       <div id="rightsquare">
