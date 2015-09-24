@@ -1,8 +1,8 @@
-@media only screen 
-    and (min-device-width : 320px) 
-    and (max-device-width : 667px) 
+@media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 667px)
     and (-webkit-min-device-pixel-ratio : 2)
-{ 
+{
 
 html,
 body {
@@ -92,8 +92,7 @@ body {
   display:none;
 }
 #content {
-    background: url('/image/background_home.jpg') no-repeat;
-    background-size:140%;
+    background: url('/image/background_home_optimized_mobile.jpg') no-repeat;
     margin:0px 0px 0px 0px;
 
     height:460px;
