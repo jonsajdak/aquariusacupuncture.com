@@ -47,27 +47,27 @@
         <a href="/"><img src="/image/logo.png"></a>
       </div>
       <div id="navLinks">
-        <div class="navItem {if $active=='acupuncture'}active{/if}" id="menuAcupuncture">
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/acupuncture' ? 'active' : '' ?>" id="menuAcupuncture">
           <a href="/acupuncture">
             <div class="label">acupuncture</div>
           </a>
         </div>
-        <div class="navItem {if $active=='herbs'}active{/if}" id="menuHerbs">
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/herbs' ? 'active' : '' ?>" id="menuHerbs">
           <a href="/herbs">
             <div class="label">herbs</div>
           </a>
         </div>
-        <div class="navItem {if $active=='photo'}active{/if}" id="menuPhotos">
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/photo' ? 'active' : '' ?>" id="menuPhotos">
           <a href="/photo">
             <div class="label">photo gallery</div>
           </a>
         </div>
-        <div class="navItem {if $active=='about'}active{/if}" id="menuAbout">
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/about' ? 'active' : '' ?>" id="menuAbout">
           <a href="/about">
             <div class="label">about Sarah</div>
           </a>
         </div>
-        <div class="navItem {if $active=='about'}active{/if}" id="menuBlog">
+        <div class="navItem" id="menuBlog">
           <a href="http://blog.aquariusacupuncture.com" target="_blank">
             <div class="label">blog</div>
           </a>

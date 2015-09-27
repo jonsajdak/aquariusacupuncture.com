@@ -4,7 +4,7 @@
    <link rel="stylesheet" href="/css/herbs.css">
    <link rel="stylesheet" href="/css/herbs_mobile.css">
 
-   <div id="content">
+   <div id="content" class="herbs">
      <div id="rightsquare">
         <div class="title">hong hua</div>
         <div class="content">

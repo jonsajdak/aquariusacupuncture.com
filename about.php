@@ -1,9 +1,8 @@
 <?php include('header.php'); ?>
 
-   <link rel="stylesheet" href="/css/about.css">
    <link rel="stylesheet" href="/css/about_mobile.css">
 
-   <div id="content">
+   <div id="content" class="about">
       <div id="rightsquare">
         <div class="title">Sarah Sajdak</div>
         <div class="subtitle">MS, Licensed Acupuncturist</div>
