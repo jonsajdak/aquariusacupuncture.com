@@ -30,6 +30,7 @@ body {
     background-position: left center;
 }
 
+
 #content.about {
   background-image: url(/image/background_about_optimized.jpg);
 }
@@ -40,7 +41,7 @@ body {
     background-position: left center;
 }
 
-#herbThumbs {
+#herbThumbs, #acuThumbs {
     position:absolute;
     bottom:32px;
     right:26px;
@@ -48,7 +49,12 @@ body {
     max-width:960px;
 }
 
-.herb_thumb {
+#acuThumbs {
+    min-width:480px;
+    max-width:480px;
+}
+
+.herb_thumb, .acu_thumb {
     float:left;
     margin:16px 0px 0px 16px;
 
@@ -61,7 +67,7 @@ body {
     cursor:pointer;
 }
 
-.herb_thumb.active {
+.herb_thumb.active, .acu_thumb.active {
     border: 4px solid rgba(140,165,190,.8);
     margin: 14px -2px -2px 14px;
 }
@@ -73,7 +79,7 @@ body {
     top:500px;
     right:0px;
     background-color:rgba(255,255,255,.8);
-    width:376px;
+    width:381px;
 
     padding:18px 32px 29px 32px;
 
@@ -102,12 +108,24 @@ body {
     text-align:right;
 }
 
+#content.home .review {
+  display:none;
+}
+#content.home .review > div {
+  margin-top:14px;
+}
+
 #content.about #rightsquare {
   top:150px;
   /*width:426px;*/  /*32px left and right padding, 490px total */
 /*  bottom:278px;
   top:auto;
 */
+}
+
+#content.home #rightsquare {
+  bottom:50px;
+  top:auto;
 }
 
 #content.about #rightsquare .title {
@@ -133,6 +151,11 @@ body {
 
 #content.herbs #rightsquare .title {
   color:#8ca5be;
+}
+
+#content.acupuncture #rightsquare {
+  bottom:160px;
+  top:auto;
 }
 
 

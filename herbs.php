@@ -1,7 +1,6 @@
 <?php include('header.php'); ?>
 
    <script type="text/javascript" src="/js/herbs.js"></script>
-   <link rel="stylesheet" href="/css/herbs.css">
    <link rel="stylesheet" href="/css/herbs_mobile.css">
 
    <div id="content" class="herbs">
