@@ -31,8 +31,8 @@
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/herbs' ? 'active' : '' ?>">
         <a href="/herbs">herbs</a>
       </div>
-      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/photo' ? 'active' : '' ?>">
-        <a href="/photo">photo gallery</a>
+      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/gallery' ? 'active' : '' ?>">
+        <a href="/gallery">photo gallery</a>
       </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/about' ? 'active' : '' ?>">
         <a href="/about">about Sarah</a>
@@ -57,8 +57,8 @@
             <div class="label">herbs</div>
           </a>
         </div>
-        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/photo' ? 'active' : '' ?>" id="menuPhotos">
-          <a href="/photo">
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/gallery' ? 'active' : '' ?>" id="menuPhotos">
+          <a href="/gallery">
             <div class="label">photo gallery</div>
           </a>
         </div>

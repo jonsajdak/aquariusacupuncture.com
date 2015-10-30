@@ -51,7 +51,7 @@ Sarah's treatments have greatly helped to manage dermatitis and other skin condi
             <div class="right">--Michael B, Queens</div>
           </div>
           <div class="review">
-            "Sarah has helped me tremendously. I have been to other acupuncturists, and no one can give me results like she can. Sara is extremely knowledgeable, skilled and kind. The office space is wonderful as well."
+            "Sarah has helped me tremendously. I have been to other acupuncturists, and no one can give me results like she can. Sarah is extremely knowledgeable, skilled and kind. The office space is wonderful as well."
             <div class="right">--Lauren M, NYC</div>
           </div>
           <div class="review">
