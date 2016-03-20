@@ -4,7 +4,7 @@
 
    <div id="content" class="gallery">
       <div id="rightsquare">
-        <div class="title">Towels</div>
+        <div class="title"></div>
         <div class="content">
     Acupuncture is a modality of Traditional Chinese Medicine (TCM) that has been in healthcare for thousands of years in China. It is helpful for a wide variety of disorders, such as pain, reproduction disorders, neurological dysfunctions, musculoskeletal disorders, and more.
         </div>
@@ -15,9 +15,6 @@
         </div>
         <div class="gallery_thumb" title="Treament Room 1">
           <img src="image/gallery_thumbs/Page 4 - Photo Gallery - Treatment Room.jpg"/>
-        </div>
-        <div class="gallery_thumb" title="Treatment Room 2">
-          <img src="image/gallery_thumbs/Page 4 - Photo Gallery - Treatment Room 2.jpg"/>
         </div>
         <div class="gallery_thumb" title="Certifications">
           <img src="image/gallery_thumbs/Page 4 - Photo Gallery - Certifications.jpg"/>

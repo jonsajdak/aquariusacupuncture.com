@@ -31,5 +31,10 @@ function acu_thumb_click(e) {
   $('#content').css('background-image','url(' + '/image/acu_' + (isMobile ? 'mobile' : 'full' ) + '/' + acu_data[idx]['filename'] + ')');
   $('#rightsquare .title').html(acu_data[idx]['name']);
   $('#rightsquare .content').html(acu_data[idx]['desc'].replace(acu_data[idx]['name'],'<i>'+acu_data[idx]['name']+'</i>'));
+
+ 
+  var path = document.location.pathname.replace(/^\//,'');
+  if(path == ''){  path = 'home'; }
+  mixpanel.track('Thumbnail Click: ' + path + ', ' + acu_data[idx]['name'],{'page':path,'name':acu_data[idx]['name']});
 }
 

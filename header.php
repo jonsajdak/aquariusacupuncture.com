@@ -2,6 +2,9 @@
   <head>
     <title>Aquarius Acupuncture</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
     <script type="text/javascript" src="/js/jquery-2.1.0.js"></script>
     <script type="text/javascript" src="/js/core.js"></script>
 
@@ -9,6 +12,35 @@
     <link rel="stylesheet" href="/css/mobile.css">
 
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+
+   <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+																		 for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
+
+    <script type="text/javascript">
+      $(function(){
+	  var userId = localStorage.getItem('userId');
+	  if (!userId){
+	    userId = 'anonymous' + Math.round(Math.random() * 1000000000)
+	      userId = userId.toString()
+	      localStorage.setItem('userId', userId)
+	      }
+	  mixpanel.identify(userId);
+	  mixpanel.people.set_once('$first_name', userId);
+	  console.log(userId);
+
+          var path = document.location.pathname.replace(/^\//,'');
+          if(path == ''){  path = 'home'; }
+          mixpanel.track('Page View: ' + path,{});
+          console.log('Page View: ' + path);
+
+	/*      mixpanel.track_links("#navLinks a", "click nav link", function(ele) {
+                                   return { name: $(ele).text() }
+                                 })
+	*/
+      });
+    </script>
+
   </head>
   <body>
     <div id="topnav" class="">
@@ -75,9 +107,34 @@
       </div>
       <div id="navButton">
         <!-- begin UnifiedPractice booking button -->
-<a id="book_button" class="up-green-btn btn-small" href="https://ehr.unifiedpractice.com/Public/OnlineBooking/Home?ClinicUid=917388c8-2211-4d79-9c1a-b914c135281d" target="_blank">Book&nbsp;Now!</a>
-<script type="text/javascript" src="http://www.unifiedpractice.com/shared/js/up_button.js"></script><!-- end UnifiedPractice booking button -->
+        <a id="book_button" class="up-green-btn btn-small" href="https://ehr.unifiedpractice.com/Public/OnlineBooking/Home?ClinicUid=917388c8-2211-4d79-9c1a-b914c135281d" target="_blank">Book&nbsp;Now!</a>
+        <script type="text/javascript" src="http://www.unifiedpractice.com/shared/js/up_button.js"></script><!-- end UnifiedPractice booking button -->
       </div>
+
+      <div id="navEmailSignup"> 
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+  <form action="//aquariusacupuncture.us8.list-manage.com/subscribe/post?u=302bff1d1b5391d71cf9ac600&amp;id=1c7c14c02e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+ 
+<div class="mc-field-group">
+ <div><label for="mce-EMAIL">Email Address </label></div>
+ <div><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div>
+</div>
+ <div id="mce-responses" class="clear">
+  <div class="response" id="mce-error-response" style="display:none"></div>
+  <div class="response" id="mce-success-response" style="display:none"></div>
+ </div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_302bff1d1b5391d71cf9ac600_1c7c14c02e" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+  </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+      </div>
+
       <div id="navAddress">
 80 E 11th Street, Suite 309
 <br/>New York, NY 10003
@@ -93,4 +150,3 @@
    &copy; 2015 Aquarius Acupuncture PLLC
       </div>
     </div>
-

@@ -67,4 +67,9 @@ function herb_thumb_click(e) {
   $('#content').css('background-image','url(' + '/image/herb_' + (isMobile ? 'mobile' : 'full' ) + '/' + herb_data[idx]['filename'] + ')');
   $('#rightsquare .title').html(herb_data[idx]['name']);
   $('#rightsquare .content').html(herb_data[idx]['desc'].replace(herb_data[idx]['name'],'<i>'+herb_data[idx]['name']+'</i>'));
+
+
+  var path = document.location.pathname.replace(/^\//,'');
+  if(path == ''){  path = 'home'; }
+  mixpanel.track('Thumbnail Click: ' + path + ', ' + herb_data[idx]['name'],{'page':path,'name':herb_data[idx]['name']});
 }
