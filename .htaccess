@@ -7,6 +7,7 @@ RewriteRule ^acupuncture$ /acupuncture.php
 RewriteRule ^herbs$ /herbs.php
 RewriteRule ^gallery$ /gallery.php
 RewriteRule ^about$ /about.php
+RewriteRule ^mentorship$ /mentorship-program.php
 
 
 #AuthType Basic
