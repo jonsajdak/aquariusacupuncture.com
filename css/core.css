@@ -379,7 +379,7 @@ body {
   margin: 2em auto;
 }
 .mentorship-program--content ul li:before {
-  content: "• ";
+  content: "\2022\0020";
 }
 .mentorship-program--content aside {
   font-style: italic;
