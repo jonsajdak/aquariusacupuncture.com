@@ -396,9 +396,54 @@ body {
   color: #AAC4DC;
   border: 2px solid #AAC4DC;
   display: inline-block;
+  margin-right: 1em !important;
 }
 .mentorship-content--button.primary {
   background-color: #AAC4DC;
   color: white;
-  margin-left: 1em;
+  margin-right: 0 !important;
+}
+
+.mentorship-prices {
+  width: 100%;
+  display: flex;
+  flex: 2;
+}
+
+.mentorship-prices > div {
+  box-sizing: border-box;
+  padding: 0 1em;
+  text-align: center;
+  background-color: #ccc;
+  color: #fff;
+  margin: 0 0.5em 2em;
+}
+
+.mentorship-prices h2 {
+  font-size: 1.5em;
+  margin: 1em 0;
+}
+
+.mentorship-prices h2 small {
+  display: block;
+  text-transform: none;
+  color: #fb0036;
+  font-size: 0.6em;
+}
+
+.program-price {
+  font-size: 2em;
+}
+
+.program-description {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.mentorship-prices ul {
+  column-count: 1;
+}
+
+.mentorship-prices hr {
+  border: 1px solid #c6c6c6;
 }
