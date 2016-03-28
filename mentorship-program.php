@@ -1,4 +1,5 @@
 <?php include('header.php'); ?>
+  <link rel="stylesheet" href="/css/mentorship_mobile.css">
 
    <div id="content" class="mentorship-program">
       <div class="content mentorship-program--content">
@@ -65,7 +66,7 @@
         <section class="center">
           <h1>Interested?</h1>
 
-          <a class="mentorship-content--button" href="">Find Out More</a>
+          <a class="mentorship-content--button" href="/mentorship-pricing">Find Out More</a>
           <a class="mentorship-content--button primary" href="https://docs.google.com/forms/d/19jPnAR7I0tsY9ff13KkUOkZCaExqad3kEJqf7-wq-3Q/viewform?c=0&w=1" target="_blank">Apply Now</a>
           <br><br>
         </section>

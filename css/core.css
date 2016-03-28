@@ -414,7 +414,7 @@ body {
   box-sizing: border-box;
   padding: 0 1em;
   text-align: center;
-  background-color: #ccc;
+  background-color: #c0c0c0;
   color: #fff;
   margin: 0 0.5em 2em;
 }
@@ -422,6 +422,7 @@ body {
 .mentorship-prices h2 {
   font-size: 1.5em;
   margin: 1em 0;
+  position: relative;
 }
 
 .mentorship-prices h2 small {
@@ -429,10 +430,20 @@ body {
   text-transform: none;
   color: #fb0036;
   font-size: 0.6em;
+  position: absolute;
+  text-align: center;
+  width: 100%;
 }
 
 .program-price {
   font-size: 2em;
+}
+.program-price small {
+  display: block;
+  font-size: 0.6em;
+}
+.program-price span {
+  text-decoration: line-through;
 }
 
 .program-description {
