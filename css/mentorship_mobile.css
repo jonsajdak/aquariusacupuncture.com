@@ -1,0 +1,32 @@
+@media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 667px)
+    and (-webkit-min-device-pixel-ratio : 2)
+{
+
+  #content {
+    height: auto;
+  }
+
+  #bottomnav {
+    padding-top: 1em;
+    text-align: center;
+  }
+
+  .mentorship-content--button {
+    display: block;
+    margin: 1em 0 !important;
+  }
+
+  .mentorship-program--content ul {
+    column-count: 1;
+  }
+
+  .mentorship-prices {
+    display: block;
+  }
+
+  .mentorship-prices > div {
+    padding: 1em;
+  }
+}
