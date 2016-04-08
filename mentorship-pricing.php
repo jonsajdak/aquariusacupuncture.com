@@ -14,7 +14,7 @@
           <div class="mentorship-prices">
             <div>
               <h2>Mentorship</h2>
-              <span class="program-price"><span>$1227</span> <small>If you start before April 1st, 2016</small> just $927</span>
+  <span class="program-price"><span>$1227</span> <small>If you start before <?php echo date("M 1\s\\t\, Y", strtotime("+1 month", strtotime(date('Y-m-d')))); ?></small> just $927</span>
               <br><br>
               <a class="mentorship-content--button primary" href="https://docs.google.com/forms/d/19jPnAR7I0tsY9ff13KkUOkZCaExqad3kEJqf7-wq-3Q/viewform?c=0&w=1" target="_blank">Apply Now</a>
               <p class="program-description">12-week mentorship</p>
@@ -44,7 +44,7 @@
 
             <div>
               <h2>Intensive Mentorship <small>* Limited space available *</small></h2>
-              <span class="program-price"><span>$997</span> <small>If you start before April 1st, 2016</small> just $697</span>
+		<span class="program-price"><span>$997</span> <small>If you start before <?php echo date("M 1\s\\t\, Y", strtotime("+1 month", strtotime(date('Y-m-d')))); ?></small> just $697</span>
               <br><br>
               <a class="mentorship-content--button primary" href="https://docs.google.com/forms/d/19jPnAR7I0tsY9ff13KkUOkZCaExqad3kEJqf7-wq-3Q/viewform?c=0&w=1" target="_blank">Apply Now</a>
               <p class="program-description">6-week mentorship</p>
