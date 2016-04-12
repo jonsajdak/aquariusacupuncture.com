@@ -18,8 +18,8 @@
           <h2>Practice Management</h2>
           <ul>
             <li>how to run an acupuncture office</li>
-            <li>NCCAOM board certification</li>
-            <li>state licensing</li>
+            <li>NCCAOM assistance</li>
+            <li>state licensing guidance</li>
             <li>marketing and branding</li>
             <li>website building and branding</li>
             <li>networking</li>

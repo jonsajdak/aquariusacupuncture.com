@@ -69,11 +69,14 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/about' ? 'active' : '' ?>">
         <a href="/about">about Sarah</a>
       </div>
+      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/mentorship' ? 'active' : '' ?>">
+        <a href="/mentorship">mentorship program</a>
+      </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/blog' ? 'active' : '' ?>">
         <a href="http://blog.aquariusacupuncture.com">blog</a>
       </div>
     </div>
-  
+
     <div id="leftnav" class="">
       <div id="navLogo">
         <a href="/"><img src="/image/logo.png"></a>
@@ -99,6 +102,11 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
             <div class="label">about Sarah</div>
           </a>
         </div>
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/mentorship' ? 'active' : '' ?>" id="menuMentorship">
+          <a href="/mentorship">
+            <div class="label">mentorship program</div>
+          </a>
+        </div>
         <div class="navItem" id="menuBlog">
           <a href="http://blog.aquariusacupuncture.com" target="_blank">
             <div class="label">blog</div>
@@ -111,13 +119,13 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         <script type="text/javascript" src="http://www.unifiedpractice.com/shared/js/up_button.js"></script><!-- end UnifiedPractice booking button -->
       </div>
 
-      <div id="navEmailSignup"> 
+      <div id="navEmailSignup">
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
   <form action="//aquariusacupuncture.us8.list-manage.com/subscribe/post?u=302bff1d1b5391d71cf9ac600&amp;id=1c7c14c02e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
- 
+
 <div class="mc-field-group">
  <div><label for="mce-EMAIL">Email Address </label></div>
  <div><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div>
