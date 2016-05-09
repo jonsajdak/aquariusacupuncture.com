@@ -51,9 +51,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         <a href="/"><img src="/image/logo.png"></a>
       </div>
       <div id="navButtonTop">
-   <!-- begin UnifiedPractice booking button -->
-<a id="book_button_mobile" class2="up-green-btn btn-small" href="https://ehr.unifiedpractice.com/Public/OnlineBooking/Home?ClinicUid=917388c8-2211-4d79-9c1a-b914c135281d" target="_blank"><input type="button" id="bookNowBtnTop" value="Book&#x00A;Now!"/></a>
-<!-- end UnifiedPractice booking button -->
+<a id="book_button_mobile" class2="up-green-btn btn-small" href="https://clients.mindbodyonline.com/classic/ws?studioid=304788&stype=-98" target="_blank"><input type="button" id="bookNowBtnTop" value="Book&#x00A;Now!"/></a>
       </div>
     </div>
     <div id="mobilemenu">
@@ -114,9 +112,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         </div>
       </div>
       <div id="navButton">
-        <!-- begin UnifiedPractice booking button -->
-        <a id="book_button" class="up-green-btn btn-small" href="https://ehr.unifiedpractice.com/Public/OnlineBooking/Home?ClinicUid=917388c8-2211-4d79-9c1a-b914c135281d" target="_blank">Book&nbsp;Now!</a>
-        <script type="text/javascript" src="http://www.unifiedpractice.com/shared/js/up_button.js"></script><!-- end UnifiedPractice booking button -->
+        <a id="book_button" class="up-green-btn btn-small" href="https://clients.mindbodyonline.com/classic/ws?studioid=304788&stype=-98" target="_blank">Book&nbsp;Now!</a>
       </div>
 
       <div id="navEmailSignup">
