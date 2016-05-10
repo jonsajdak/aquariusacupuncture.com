@@ -458,3 +458,158 @@ body {
 .mentorship-prices hr {
   border: 1px solid #c6c6c6;
 }
+
+/**
+ * Button styles from Unified Practice stylesheet.
+ */
+#book_button {
+    font-family: Arial, sans-serif !important;
+    font-weight: normal !important;
+    font-style: normal !important;
+    display: inline-block;
+    padding: 9px 10px;
+    font-size: 15px;
+    line-height: normal;
+    margin-bottom: 0;
+    *margin-left: .3em;
+    *line-height: 20px;
+    text-align: center;
+    color: #ffffff !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    vertical-align: middle;
+    background-color: #222;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#555), to(#222));
+    background-image: -webkit-linear-gradient(top, #555, #222);
+    background-image: -o-linear-gradient(top, #555, #222);
+    background-image: -moz-linear-gradient(top, #555, #222);
+    background-image: linear-gradient(to bottom, #555, #222);
+    background-repeat: repeat-x;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #222 #222 #000;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    *zoom: 1;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -webkit-font-smoothing: antialiased;
+    text-decoration: none;
+    filter: progid:dximagetransform.microsoft.gradient(startColorstr="#ff555555", endColorstr="#ff222222");
+}
+#book_button:hover, #book_button:active, #book_button.active {
+    background-color: #222;
+}
+#book_button:active, #book_button.active {
+    background-color: #222;
+}
+#book_button:hover {
+    background-position: 0 -15px;
+    -webkit-transition: background-position .1s linear;
+    -moz-transition: background-position .1s linear;
+    -ms-transition: background-position .1s linear;
+    -o-transition: background-position .1s linear;
+    transition: background-position .1s linear;
+}
+#book_button.active, #book_button:active {
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+#book_button.btn-medium {
+    padding: 4px 6px 4px;
+    font-size: 13px;
+    line-height: 18px;
+}
+#book_button.btn-small {
+    padding: 4px 7px;
+    font-size: 11px;
+    line-height: 16px;
+}
+#book_button.btn-medium, #book_button.btn-small {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+#book_button span {
+    background-image: url('http://www.unifiedpractice.com/shared/img/calendars.png');
+    background-repeat: no-repeat;
+    margin-left: -5px;
+}
+#book_button.btn-large span, #book_button span {
+    padding-left: 24px;
+    background-position: 1px -2px;
+}
+#book_button.btn-medium span {
+    padding: 2px 0 2px 22px;
+    background-position: 1px -1px;
+}
+#book_button.btn-small span {
+    background-position: 0 -60px;
+    padding: 2px 0 2px 20px;
+    margin-left: -5px;
+}
+#book_button.btn-large.up-white-btn span, #book_button.up-white-btn span {
+    background-position: 1px -40px;
+}
+#book_button.btn-medium.up-white-btn span {
+    background-position: 1px -39px;
+}
+#book_button.btn-small.up-white-btn span {
+    background-position: 0 -98px;
+}
+#book_button.up-green-btn.active, #book_button.up-blue-btn.active, #book_button.up-black-btn.active, #book_button.up-white-btn.active, #book_button.up-orange-btn.active {
+    color: rgba(255, 255, 255, 0.75);
+}
+#book_button.up-white-btn {
+    color: #333333 !important;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    background-color: #f5f5f5;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#e6e6e6));
+    background-image: -webkit-linear-gradient(top, #fff, #e6e6e6);
+    background-image: -o-linear-gradient(top, #fff, #e6e6e6);
+    background-image: linear-gradient(to bottom, #fff, #e6e6e6);
+    background-image: -moz-linear-gradient(top, #fff, #e6e6e6);
+    border-color: #bbb;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    border-bottom-color: #a2a2a2;
+    filter: progid:dximagetransform.microsoft.gradient(startColorstr="#ffffffff", endColorstr="#ffe6e6e6");
+}
+#book_button.up-white-btn:hover, #book_button.up-white-btn:active, #book_button.up-white-btn.active {
+    background-color: #e6e6e6;
+}
+#book_button.up-green-btn {
+    background-color: #558527;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#73b435), to(#558527));
+    background-image: -webkit-linear-gradient(top, #73b435, #558527);
+    background-image: -o-linear-gradient(top, #73b435, #558527);
+    background-image: linear-gradient(to bottom, #73b435, #558527);
+    background-image: -moz-linear-gradient(top, #73b435, #558527);
+    border-color: #558527 #558527 #4e7a24;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff73b435", endColorstr="#ff558527");
+}
+#book_button.up-blue-btn {
+    background-color: #396683;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#6d9fbf), to(#396683));
+    background-image: -webkit-linear-gradient(top, #6d9fbf, #396683);
+    background-image: -o-linear-gradient(top, #6d9fbf, #396683);
+    background-image: linear-gradient(to bottom, #6d9fbf, #396683);
+    background-image: -moz-linear-gradient(top, #6d9fbf, #396683);
+    border-color: #396683 #396683 #315870;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff6d9fbf", endColorstr="#ff396683");
+}
+#book_button.up-orange-btn {
+    background-color: #f60;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ff954f), to(#f60));
+    background-image: -webkit-linear-gradient(top, #ff954f, #f60);
+    background-image: -o-linear-gradient(top, #ff954f, #f60);
+    background-image: linear-gradient(to bottom, #ff954f, #f60);
+    background-image: -moz-linear-gradient(top, #ff954f, #f60);
+    border-color: #f60 #f60 #ad6704;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffff954f", endColorstr="#ffff6600");
+}
