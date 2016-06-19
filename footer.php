@@ -1,4 +1,9 @@
     <div id="bottomnav">
+      <div id="navButton">
+        <span class="check-insurance">
+          <a id="ins_button" class="btn btn-small" href="https://docs.google.com/forms/d/1dKcsHZYOlA6yIAVjkly3l6j2yrhDAvflk00PtshKAxE/viewform" target="_blank">Check Insurance</a>
+        </span>
+      </div>
       <div id="navAddressBottom">
        80 E 11th Street, Suite 309
        <br/>New York, NY 10003
@@ -9,6 +14,7 @@
           <a href="https://www.facebook.com/aquariusacu"><img src="image/facebook.png"/></a>
           <a href="https://twitter.com/aquariusacu"><img src="image/twitter.png"/></a>
           <a href="https://instagram.com/aquariusacupuncture/"><img src="image/instagram.png"/></a>
+          <iframe id="mindbody--embed" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID304788" style="border: none; width: 135px; height: 31px;"></iframe>
       </div>
       <div id="navCopyrightBottom">
        &copy; 2015 Aquarius Acupuncture PLLC

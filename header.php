@@ -27,12 +27,10 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
 	      }
 	  mixpanel.identify(userId);
 	  mixpanel.people.set_once('$first_name', userId);
-	  console.log(userId);
 
           var path = document.location.pathname.replace(/^\//,'');
           if(path == ''){  path = 'home'; }
           mixpanel.track('Page View: ' + path,{});
-          console.log('Page View: ' + path);
 
 	/*      mixpanel.track_links("#navLinks a", "click nav link", function(ele) {
                                    return { name: $(ele).text() }
@@ -112,7 +110,10 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         </div>
       </div>
       <div id="navButton">
-        <a id="book_button" class="up-green-btn btn-small" href="https://clients.mindbodyonline.com/classic/ws?studioid=304788&stype=-98" target="_blank">Book&nbsp;Now!</a>
+        <a id="book_button" class="btn btn-small" href="https://clients.mindbodyonline.com/classic/ws?studioid=304788&stype=-98" target="_blank">Book&nbsp;Now</a>
+				<span class="check-insurance">
+					<a id="ins_button" class="btn btn-small" href="https://docs.google.com/forms/d/1dKcsHZYOlA6yIAVjkly3l6j2yrhDAvflk00PtshKAxE/viewform" target="_blank">Check Insurance</a>
+				</span>
       </div>
 
       <div id="navEmailSignup">
@@ -120,20 +121,16 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
   <form action="//aquariusacupuncture.us8.list-manage.com/subscribe/post?u=302bff1d1b5391d71cf9ac600&amp;id=1c7c14c02e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
+		<label for="mce-EMAIL" class="mailchimp--label">Join our mailing list</label>
+		<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="you@youremail.com">
+		<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
 
-<div class="mc-field-group">
- <div><label for="mce-EMAIL">Email Address </label></div>
- <div><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div>
-</div>
- <div id="mce-responses" class="clear">
-  <div class="response" id="mce-error-response" style="display:none"></div>
-  <div class="response" id="mce-success-response" style="display:none"></div>
- </div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		<div id="mce-responses" class="clear">
+			<div class="response" id="mce-error-response" style="display:none"></div>
+			<div class="response" id="mce-success-response" style="display:none"></div>
+		</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_302bff1d1b5391d71cf9ac600_1c7c14c02e" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-  </div>
-</form>
+	</form>
 </div>
 
 <!--End mc_embed_signup-->
@@ -149,6 +146,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
           <a href="https://www.facebook.com/aquariusacu" target="_blank"><img src="image/facebook.png"/></a>
           <a href="https://twitter.com/aquariusacu" target="_blank"><img src="image/twitter.png"/></a>
           <a href="https://instagram.com/aquariusacupuncture/" target="_blank"><img src="image/instagram.png"/></a>
+          <iframe id="mindbody--embed" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID304788" style="border: none; width: 135px; height: 31px;"></iframe>
       </div>
       <div id="navCopyright">
    &copy; 2015 Aquarius Acupuncture PLLC

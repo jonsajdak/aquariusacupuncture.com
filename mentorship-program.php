@@ -58,7 +58,10 @@
         <section class="alt">
           <h1>Your Mentor</h1>
 
-          <p>Sarah Sajdak, MS, L.Ac has a Masters in Traditional Oriental Medicine from Pacific College of Oriental Medicine. Currently, she is earning her doctorate in Oriental Medicine and is also earning a specialization diploma in dermatology. Sarah is NCCAOM board certified and licensed to practice acupuncture in New York and California, with postgraduate training in women's reproductive health. Sarah also has a New York State Teaching License, with years of experience in education and special education in both a group and one-on-one settings in New York, Massachusetts, and Oregon. She also has a Bachelors of Science in French and Medical Anthropology from NYU.</p>
+
+          <p>
+						<img src="/image/sarah-mentor.jpg" style="float: right; margin-left: 25px; width: 280px">
+						Dr. Sarah Sajdak, L.Ac, DACM (Fellows) has a Masters in Traditional Oriental Medicine from Pacific College of Oriental Medicine. Currently, she is earning her doctorate in Chinese Medicine and is also earning a specialization diploma in dermatology. Sarah is NCCAOM board certified and licensed to practice acupuncture in New York and California, with postgraduate training in women's reproductive health. Sarah also has a New York State Teaching License, with years of experience in education and special education in both a group and one-on-one settings in New York, Massachusetts, and Oregon. She also has a Bachelors of Science in French and Medical Anthropology from NYU.</p>
 
           <p>Sarah is a licensed acupuncturist and the owner of Aquarius Acupuncture, PLLC. She works with a variety of conditions, including pain management, migraines, fertility, insomnia, emotional disorders, and more. In addition to private practice, Sarah has experience working in community acupuncture, spas, hospitals, doctors' offices, home visits, no fault clinics, and wellness groups. Sarah enjoys helping patients through transitions and allow them to resume their creative work, whether personal or professional. For years, she has mentored acupuncturists and acupuncture students, and is excited to integrate her knowledge into this mentorship program. You will learn how Sarah built her thriving, lucrative practice out of absolutely nothing!</p>
         </section>
@@ -66,7 +69,7 @@
         <section class="center">
           <h1>Interested?</h1>
 
-          <a class="mentorship-content--button" href="/mentorship-pricing">Find Out More</a>
+          <a class="mentorship-content--button" href="/mentorship-pricing">See Prices</a>
           <a class="mentorship-content--button primary" href="https://docs.google.com/forms/d/19jPnAR7I0tsY9ff13KkUOkZCaExqad3kEJqf7-wq-3Q/viewform?c=0&w=1" target="_blank">Apply Now</a>
           <br><br>
         </section>

@@ -4,8 +4,8 @@
 
    <div id="content" class="home">
       <div id="rightsquare">
-        <div class="title">Sarah Sajdak</div>
-        <div class="subtitle">MS, Licensed Acupuncturist</div>
+        <div class="title">Dr. Sarah Sajdak</div>
+        <div class="subtitle">L.Ac, DACM (Fellows)</div>
           <div class="review">
             "I have been receiving acupuncture from Sarah weekly for the past 10 months, and it has been a truly amazing experience. Not only is she very good at what she does, but her kind and gentle nature sets her apart from the rest. It is rare to find a doctor who listens so intently to your needs and concerns. I have always left her treatments feeling as though my issues were thoroughly addressed. Sarah's needling techniques are a perfect combination of precision and sensitivity, allowing the healing process to unfold layer by layer and in its own time."
             <div class="right">--Gina D, NYC</div>

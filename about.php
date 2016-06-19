@@ -4,12 +4,13 @@
 
    <div id="content" class="about">
       <div id="rightsquare">
-        <div class="title">Sarah Sajdak</div>
-        <div class="subtitle">MS, Licensed Acupuncturist</div>
+        <div class="title">Dr. Sarah Sajdak</div>
+        <div class="subtitle">L.Ac, DACM (Fellows)</div>
         <div class="content">
     Sarah is an intuitive healer who uses traditional Chinese medicine to treat the underlying root causes of disease pattern and disharmony in the body. Sarah's treatments strengthen the system so that the body can naturally return to a state of balance. This way, as ailments are relieved, signs and symptoms do not return. The patient will be empowered with the knowledge to maintain his or her wellbeing and overall health. Traditional Chinese medicine is unique in its ability to bring success to any treatment plan by means of primary or complementary healthcare. Sarah's particular interests include internal medicine, emotional disorders, women's health, and pain management. Sarah's private practice has grown out of extensive experience treating patients in a variety of clinical experiences, including community acupuncture, MD offices, and hospital settings.
 <br/><br/>
-Sarah received her master's of science degree in Traditional Oriental Medicine (MSTOM) at the Pacific College of Oriental College. She is nationally board certified (NCCAOM) in traditional Oriental medicine, acupuncture, and Chinese herbal medicine, and maintains state licensure in acupuncture for both California and New York.
+Sarah is earning her doctorate in Chinese Medicine and is also earning a specialization diploma in dermatology.
+She received her master's of science degree in Traditional Oriental Medicine (MSTOM) at the Pacific College of Oriental College. She is nationally board certified (NCCAOM) in traditional Oriental medicine, acupuncture, and Chinese herbal medicine, and maintains state licensure in acupuncture for both California and New York.
 <!--
           <div class="section">
             <b>Schools Attended:</b>
