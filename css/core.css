@@ -95,7 +95,7 @@ body {
     top:500px;
     right:0px;
     background-color:rgba(255,255,255,.8);
-    width:381px;
+    width:395px;
 
     padding:18px 32px 29px 32px;
 
@@ -224,7 +224,7 @@ body {
 }
 #navButton {
     position:absolute;
-    top:400px;
+    top: 410px;
     margin:0px 0px 0px 52px;
 }
 #navButton input {
@@ -240,27 +240,10 @@ body {
     border-radius:3px;
     outline:none;
 }
-#book_button {
-    background-image:none !important;
-    background-color:#A7D4C4 !important;
-    color:white !important;
-    font-family:'Lato' !important;
-    font-weight:300 !important;
-    font-size:20px !important;
-
-    width:110px !important;
-    height:25px !important;
-    border:0px !important;
-    border-radius:3px !important;
-    outline:none !important;
-    text-shadow:none !important;
-    padding:10px 0px 0px 0px !important;
-    text-align:center !important;
-}
 
 #navEmailSignup {
     position:absolute;
-    top:455px;
+    top:475px;
     margin:0px 0px 0px 52px;
 }
 .mc-field-group > div {
@@ -269,24 +252,30 @@ body {
 .mc-field-group	> div:last-child {
   margin:0px 0px 10px 0px;
 }
+.mailchimp--label {
+	margin-bottom: 4px;
+	display: block;
+}
 
 #navAddress {
     position:absolute;
-    bottom:120px;
+    bottom:160px;
     margin:0px 0px 0px 52px;
 
    font-size:16px;
 }
 #navSocialIcons {
     position:absolute;
-    bottom:80px;
+    bottom:65px;
     margin:00px 0px 0px 52px;
 }
 #navSocialIcons img {
     margin:0px 20px 0px 0px;
     height:19px;
 }
-
+#mindbody--embed {
+  margin-top: 8px;
+}
 #navCopyright {
     position:absolute;
     bottom:30px;
@@ -462,7 +451,7 @@ body {
 /**
  * Button styles from Unified Practice stylesheet.
  */
-#book_button {
+#navButton .btn {
     font-family: Arial, sans-serif !important;
     font-weight: normal !important;
     font-style: normal !important;
@@ -474,7 +463,7 @@ body {
     *margin-left: .3em;
     *line-height: 20px;
     text-align: center;
-    color: #ffffff !important;
+    color: #ffffff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
     vertical-align: middle;
     background-color: #222;
@@ -499,13 +488,15 @@ body {
     text-decoration: none;
     filter: progid:dximagetransform.microsoft.gradient(startColorstr="#ff555555", endColorstr="#ff222222");
 }
-#book_button:hover, #book_button:active, #book_button.active {
+/*
+#navButton .btn:hover, #navButton .btn:active, #navButton .btn.active {
     background-color: #222;
 }
-#book_button:active, #book_button.active {
+#navButton .btn:active, #navButton .btn.active {
     background-color: #222;
 }
-#book_button:hover {
+*/
+#navButton .btn:hover {
     background-position: 0 -15px;
     -webkit-transition: background-position .1s linear;
     -moz-transition: background-position .1s linear;
@@ -513,59 +504,59 @@ body {
     -o-transition: background-position .1s linear;
     transition: background-position .1s linear;
 }
-#book_button.active, #book_button:active {
+#navButton .btn.active, #navButton .btn:active {
     background-image: none;
     outline: 0;
     -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
     -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
     box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
 }
-#book_button.btn-medium {
+#navButton .btn.btn-medium {
     padding: 4px 6px 4px;
     font-size: 13px;
     line-height: 18px;
 }
-#book_button.btn-small {
+#navButton .btn.btn-small {
     padding: 4px 7px;
     font-size: 11px;
     line-height: 16px;
 }
-#book_button.btn-medium, #book_button.btn-small {
+#navButton .btn.btn-medium, #navButton .btn.btn-small {
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
 }
-#book_button span {
+#navButton .btn span {
     background-image: url('http://www.unifiedpractice.com/shared/img/calendars.png');
     background-repeat: no-repeat;
     margin-left: -5px;
 }
-#book_button.btn-large span, #book_button span {
+#navButton .btn.btn-large span, #navButton .btn span {
     padding-left: 24px;
     background-position: 1px -2px;
 }
-#book_button.btn-medium span {
+#navButton .btn.btn-medium span {
     padding: 2px 0 2px 22px;
     background-position: 1px -1px;
 }
-#book_button.btn-small span {
+#navButton .btn.btn-small span {
     background-position: 0 -60px;
     padding: 2px 0 2px 20px;
     margin-left: -5px;
 }
-#book_button.btn-large.up-white-btn span, #book_button.up-white-btn span {
+#navButton .btn.btn-large.up-white-btn span, #navButton .btn.up-white-btn span {
     background-position: 1px -40px;
 }
-#book_button.btn-medium.up-white-btn span {
+#navButton .btn.btn-medium.up-white-btn span {
     background-position: 1px -39px;
 }
-#book_button.btn-small.up-white-btn span {
+#navButton .btn.btn-small.up-white-btn span {
     background-position: 0 -98px;
 }
-#book_button.up-green-btn.active, #book_button.up-blue-btn.active, #book_button.up-black-btn.active, #book_button.up-white-btn.active, #book_button.up-orange-btn.active {
+#navButton .btn.up-green-btn.active, #navButton .btn.up-blue-btn.active, #navButton .btn.up-black-btn.active, #navButton .btn.up-white-btn.active, #navButton .btn.up-orange-btn.active {
     color: rgba(255, 255, 255, 0.75);
 }
-#book_button.up-white-btn {
+#navButton .btn.up-white-btn {
     color: #333333 !important;
     text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
     background-color: #f5f5f5;
@@ -580,10 +571,10 @@ body {
     border-bottom-color: #a2a2a2;
     filter: progid:dximagetransform.microsoft.gradient(startColorstr="#ffffffff", endColorstr="#ffe6e6e6");
 }
-#book_button.up-white-btn:hover, #book_button.up-white-btn:active, #book_button.up-white-btn.active {
+#navButton .btn.up-white-btn:hover, #navButton .btn.up-white-btn:active, #navButton .btn.up-white-btn.active {
     background-color: #e6e6e6;
 }
-#book_button.up-green-btn {
+#navButton .btn.up-green-btn {
     background-color: #558527;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#73b435), to(#558527));
     background-image: -webkit-linear-gradient(top, #73b435, #558527);
@@ -593,7 +584,7 @@ body {
     border-color: #558527 #558527 #4e7a24;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff73b435", endColorstr="#ff558527");
 }
-#book_button.up-blue-btn {
+#navButton .btn.up-blue-btn {
     background-color: #396683;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#6d9fbf), to(#396683));
     background-image: -webkit-linear-gradient(top, #6d9fbf, #396683);
@@ -603,7 +594,7 @@ body {
     border-color: #396683 #396683 #315870;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff6d9fbf", endColorstr="#ff396683");
 }
-#book_button.up-orange-btn {
+#navButton .btn.up-orange-btn {
     background-color: #f60;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ff954f), to(#f60));
     background-image: -webkit-linear-gradient(top, #ff954f, #f60);
@@ -612,4 +603,40 @@ body {
     background-image: -moz-linear-gradient(top, #ff954f, #f60);
     border-color: #f60 #f60 #ad6704;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffff954f", endColorstr="#ffff6600");
+}
+#navButton .btn {
+    background-image:none !important;
+    background-color:#A7D4C4;
+    color:white;
+    font-family:'Lato' !important;
+    font-weight:400;
+    font-size:20px;
+
+    height:25px !important;
+    border:0px !important;
+    border-radius:3px !important;
+    outline:none !important;
+    text-shadow:none !important;
+    padding:10px 4px 0px 4px !important;
+    text-align:center !important;
+}
+#book_button {
+  font-size: 15px !important;
+}
+#navButton small {
+  display: inline-block;
+  padding: 0 4px;
+}
+
+#navButton .check-insurance {
+	margin-top: 1em;
+}
+#navButton .check-insurance span {
+	font-size: 0.9em;
+}
+#navButton .check-insurance .btn {
+	font-size: 14px !important;
+  background-color: transparent !important;
+	color: #a7d4c4;
+	border: 1px solid #a7d4c4 !important;
 }
