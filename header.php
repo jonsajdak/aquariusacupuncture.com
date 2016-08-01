@@ -146,7 +146,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
           <a href="https://www.facebook.com/aquariusacu" target="_blank"><img src="image/facebook.png"/></a>
           <a href="https://twitter.com/aquariusacu" target="_blank"><img src="image/twitter.png"/></a>
           <a href="https://instagram.com/aquariusacupuncture/" target="_blank"><img src="image/instagram.png"/></a>
-          <iframe id="mindbody--embed" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID304788" style="border: none; width: 135px; height: 31px;"></iframe>
+          <iframe id="mindbody--embed" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID304788" style="border: none; width: 200px; height: 48px;"></iframe>
       </div>
       <div id="navCopyright">
    &copy; 2015 Aquarius Acupuncture PLLC

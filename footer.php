@@ -14,7 +14,7 @@
           <a href="https://www.facebook.com/aquariusacu"><img src="image/facebook.png"/></a>
           <a href="https://twitter.com/aquariusacu"><img src="image/twitter.png"/></a>
           <a href="https://instagram.com/aquariusacupuncture/"><img src="image/instagram.png"/></a>
-          <iframe id="mindbody--embed" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID304788" style="border: none; width: 135px; height: 31px;"></iframe>
+          <iframe id="mindbody--embed" scrolling="no" allowtransparency="true" src="https://clients.mindbodyonline.com/connect/appbutton?siteID304788" style="border: none; width: 200px; height: 48px;"></iframe>
       </div>
       <div id="navCopyrightBottom">
        &copy; 2015 Aquarius Acupuncture PLLC
