@@ -65,9 +65,6 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/about' ? 'active' : '' ?>">
         <a href="/about">about Sarah</a>
       </div>
-      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/mentorship' ? 'active' : '' ?>">
-        <a href="/mentorship">mentorship program</a>
-      </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/blog' ? 'active' : '' ?>">
         <a href="http://blog.aquariusacupuncture.com">blog</a>
       </div>
@@ -96,11 +93,6 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/about' ? 'active' : '' ?>" id="menuAbout">
           <a href="/about">
             <div class="label">about Sarah</div>
-          </a>
-        </div>
-        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/mentorship' ? 'active' : '' ?>" id="menuMentorship">
-          <a href="/mentorship">
-            <div class="label">mentorship program</div>
           </a>
         </div>
         <div class="navItem" id="menuBlog">
