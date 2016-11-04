@@ -5,19 +5,19 @@
    <div id="content" class="home">
       <div id="rightsquare">
         <div class="title">Dr. Sarah Sajdak</div>
-        <div class="subtitle">L.Ac, DACM (Fellows)</div>
+        <div class="subtitle">L.Ac, DAOM (Fellows)</div>
           <div class="review">
             "I have been receiving acupuncture from Sarah weekly for the past 10 months, and it has been a truly amazing experience. Not only is she very good at what she does, but her kind and gentle nature sets her apart from the rest. It is rare to find a doctor who listens so intently to your needs and concerns. I have always left her treatments feeling as though my issues were thoroughly addressed. Sarah's needling techniques are a perfect combination of precision and sensitivity, allowing the healing process to unfold layer by layer and in its own time."
             <div class="right">--Gina D, NYC</div>
           </div>
           <div class="review">
-            "After 10 years of dealing with acid reflux with little success - trying medications, seeing doctors, making lifestyle changes - I had made my mind up to get a medical procedure. Before I went through with it, I thought I'd give acupuncture a try on a recommendation from my massage therapist, who gave me Sarah's info. After 4 sessions spanning a month, my reflux symptoms were 90% better. I was amazed. Sarah has helped me where doctors could not, and I'm now living each day with only mild symptoms and often don't have any. 
+            "After 10 years of dealing with acid reflux with little success - trying medications, seeing doctors, making lifestyle changes - I had made my mind up to get a medical procedure. Before I went through with it, I thought I'd give acupuncture a try on a recommendation from my massage therapist, who gave me Sarah's info. After 4 sessions spanning a month, my reflux symptoms were 90% better. I was amazed. Sarah has helped me where doctors could not, and I'm now living each day with only mild symptoms and often don't have any.
 <br/><br/>
-Side note, I'm drinking a beer as a write this. :) Two months ago, that was one item of about 100 that I had to eliminate from my diet. Now I can eat both the healthy foods and the indulgences that I thought I'd have to give up forever. I can't thank or recommend Sarah enough!"    
+Side note, I'm drinking a beer as a write this. :) Two months ago, that was one item of about 100 that I had to eliminate from my diet. Now I can eat both the healthy foods and the indulgences that I thought I'd have to give up forever. I can't thank or recommend Sarah enough!"
             <div class="right">--Kyle M, NYC</div>
           </div>
           <div class="review">
-            "Sarah has been working with me for 18 months to help with pain management and discomfort caused by nerve compression before and after spinal surgery. I found acupuncture to be more effective than heavy drugs that were recommended by my surgeon. Sarah's treatments also helped manage my anxiety related to the pain. 
+            "Sarah has been working with me for 18 months to help with pain management and discomfort caused by nerve compression before and after spinal surgery. I found acupuncture to be more effective than heavy drugs that were recommended by my surgeon. Sarah's treatments also helped manage my anxiety related to the pain.
 <br/><br/>
 Sarah's treatments have greatly helped to manage dermatitis and other skin conditions. Working with her has been a turning point in a way I manage physical pain and anxiety. Sarah's care and commitment has been one of the most positive health care experiences. I have referred numerous people who have been to her with outstanding results. Not only is she a wonderful practitioner, she is an angel!!!"
             <div class="right">--Louise S, NYC</div>
@@ -59,9 +59,9 @@ Sarah's treatments have greatly helped to manage dermatitis and other skin condi
             <div class="right">--Kristen W, NYC</div>
           </div>
           <div class="review">
-            "I highly recommend Sarah Sajdak at Aquarius Acupuncture.  Sarah is a natural.  She makes intuitive, common sense dietary and herbal recommendations regularly.  She also sells high quality herbs at cost.  
+            "I highly recommend Sarah Sajdak at Aquarius Acupuncture.  Sarah is a natural.  She makes intuitive, common sense dietary and herbal recommendations regularly.  She also sells high quality herbs at cost.
 <br/><br/>
-Sarah's way with needles is effortless.  I only experience occasional and very brief discomfort.  She has a lot of fun which makes treatments less like going to the doctor and more like an adventure into multidimensional palaces of healing energy.  
+Sarah's way with needles is effortless.  I only experience occasional and very brief discomfort.  She has a lot of fun which makes treatments less like going to the doctor and more like an adventure into multidimensional palaces of healing energy.
 <br/><br/>
 After three treatments I felt much better and after six treatments I'm now starting to feel my body's healing energy gaining momentum.  Aquarius Acupuncture is an oasis of healing magic in a charming pocket of NYC."
             <div class="right">--AH, Brooklyn</div>
