@@ -5,7 +5,7 @@
    <div id="content" class="about">
       <div id="rightsquare">
         <div class="title">Dr. Sarah Sajdak</div>
-        <div class="subtitle">L.Ac, DAOM (Fellows)</div>
+        <div class="subtitle">DAOM, L.Ac</div>
         <div class="content">
     Sarah is an intuitive healer who uses traditional Chinese medicine to treat the underlying root causes of disease pattern and disharmony in the body. Sarah's treatments strengthen the system so that the body can naturally return to a state of balance. This way, as ailments are relieved, signs and symptoms do not return. The patient will be empowered with the knowledge to maintain his or her wellbeing and overall health. Traditional Chinese medicine is unique in its ability to bring success to any treatment plan by means of primary or complementary healthcare. Sarah's particular interests include internal medicine, emotional disorders, women's health, and pain management. Sarah's private practice has grown out of extensive experience treating patients in a variety of clinical experiences, including community acupuncture, MD offices, and hospital settings.
 <br/><br/>
