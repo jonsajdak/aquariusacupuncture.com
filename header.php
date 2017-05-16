@@ -66,7 +66,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         <a href="/about">about Sarah</a>
       </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/blog' ? 'active' : '' ?>">
-        <a href="http://blog.aquariusacupuncture.com">blog</a>
+        <a href="http://aquariusacupuncture.wordpress.com">blog</a>
       </div>
     </div>
 
@@ -96,7 +96,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
           </a>
         </div>
         <div class="navItem" id="menuBlog">
-          <a href="http://blog.aquariusacupuncture.com" target="_blank">
+          <a href="http://aquariusacupuncture.wordpress.com" target="_blank">
             <div class="label">blog</div>
           </a>
         </div>
