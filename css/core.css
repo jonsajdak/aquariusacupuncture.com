@@ -224,7 +224,7 @@ body {
 }
 #navButton {
     position:absolute;
-    top: 410px;
+    top: 380px;
     margin:0px 0px 0px 52px;
 }
 #navButton input {
@@ -243,7 +243,7 @@ body {
 
 #navEmailSignup {
     position:absolute;
-    top:475px;
+    top:465px;
     margin:0px 0px 0px 52px;
 }
 .mc-field-group > div {
@@ -259,14 +259,14 @@ body {
 
 #navAddress {
     position:absolute;
-    bottom:160px;
+    bottom:130px;
     margin:0px 0px 0px 52px;
 
    font-size:16px;
 }
 #navSocialIcons {
     position:absolute;
-    bottom:65px;
+    bottom:30px;
     margin:00px 0px 0px 52px;
 }
 #navSocialIcons img {
@@ -278,7 +278,7 @@ body {
 }
 #navCopyright {
     position:absolute;
-    bottom:30px;
+    bottom:60px;
     margin:0px 0px 0px 52px;
 
    font-size:12px;
