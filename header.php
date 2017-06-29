@@ -102,7 +102,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         </div>
       </div>
       <div id="navButton">
-        <a id="book_button" class="btn btn-small" href="https://clients.mindbodyonline.com/classic/ws?studioid=304788&stype=-98" target="_blank">Book&nbsp;Now</a>
+        <a id="book_button" class="btn btn-small" href="https://www.genbook.com/bookings/slot/reservation/30397544?bookingSourceId=1000" target="_blank">Book&nbsp;Now</a>
 				<span class="check-insurance">
 					<a id="ins_button" class="btn btn-small" href="https://docs.google.com/forms/d/1dKcsHZYOlA6yIAVjkly3l6j2yrhDAvflk00PtshKAxE/viewform" target="_blank">Check Insurance</a>
 				</span>
