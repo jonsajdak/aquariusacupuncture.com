@@ -49,7 +49,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         <a href="/"><img src="/image/logo.png"></a>
       </div>
       <div id="navButtonTop">
-<a id="book_button_mobile" class2="up-green-btn btn-small" href="https://clients.mindbodyonline.com/classic/ws?studioid=304788&stype=-98" target="_blank"><input type="button" id="bookNowBtnTop" value="Book&#x00A;Now!"/></a>
+<a id="book_button_mobile" class2="up-green-btn btn-small" href="https://www.genbook.com/bookings/slot/reservation/30397544?bookingSourceId=1000" target="_blank"><input type="button" id="bookNowBtnTop" value="Book&#x00A;Now!"/></a>
       </div>
     </div>
     <div id="mobilemenu">
