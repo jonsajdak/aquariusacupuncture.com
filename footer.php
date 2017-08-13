@@ -1,7 +1,7 @@
     <div id="bottomnav">
       <div id="navButton">
         <span class="check-insurance">
-          <a id="ins_button" class="btn btn-small" href="https://docs.google.com/forms/d/1dKcsHZYOlA6yIAVjkly3l6j2yrhDAvflk00PtshKAxE/viewform" target="_blank">Check Insurance</a>
+          <a id="ins_button" class="btn btn-small" href="https://docs.google.com/forms/d/e/1FAIpQLSe5jD7yNfD1c7_cMhmfylIIecFa2ndUM2pzDQSu0J-nsbS9vQ/viewform?usp=sf_link" target="_blank">Check Insurance</a>
         </span>
       </div>
       <div id="navAddressBottom">
