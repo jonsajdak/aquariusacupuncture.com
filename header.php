@@ -104,7 +104,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
       <div id="navButton">
         <a id="book_button" class="btn btn-small" href="https://www.genbook.com/bookings/slot/reservation/30397544?bookingSourceId=1000" target="_blank">Book&nbsp;Now</a>
 				<span class="check-insurance">
-					<a id="ins_button" class="btn btn-small" href="https://docs.google.com/forms/d/1dKcsHZYOlA6yIAVjkly3l6j2yrhDAvflk00PtshKAxE/viewform" target="_blank">Check Insurance</a>
+					<a id="ins_button" class="btn btn-small" href="https://docs.google.com/forms/d/e/1FAIpQLSe5jD7yNfD1c7_cMhmfylIIecFa2ndUM2pzDQSu0J-nsbS9vQ/viewform?usp=sf_link" target="_blank">Check Insurance</a>
 				</span>
       </div>
 
