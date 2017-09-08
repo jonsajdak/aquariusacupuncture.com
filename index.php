@@ -101,6 +101,10 @@ Sarah is one of the loveliest people you will ever meet."
 "I've been going to Sarah for about 6 months now, and my life is better for it.  She has vastly helped alleviate my stress, anxiety, and bouts of the blues, and has eased my knee and hip pain as well.  Her office is a beautiful oasis in a highly convenient location (very close to The Strand), and she keeps the space feeling calm and peaceful thanks to her thoughtful use of scent and sound.  She is also a warm, gentle, and uplifting person with whom I feel extremely comfortable.  I'm so grateful that Sarah's skill and great energy is now part of my wellness routine, and I can't recommend her more highly."
             <div class="right">--Pam G, Brooklyn</div>
           </div>
+          <div class="review">
+ “My experience with Dr. Sarah was amazing.  From her beautiful office, to her gentle hands, I felt completely at ease and relaxed.  She is a very intuitive healer.  She has helped me greatly in my quest to treat my PCOS without birth control.”
+ <div class="right">--Alisa N, Brooklyn</div>
+          </div>
         </div>
       </div>
    </div>
