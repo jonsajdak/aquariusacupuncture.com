@@ -105,6 +105,14 @@ Sarah is one of the loveliest people you will ever meet."
  “My experience with Dr. Sarah was amazing.  From her beautiful office, to her gentle hands, I felt completely at ease and relaxed.  She is a very intuitive healer.  She has helped me greatly in my quest to treat my PCOS without birth control.”
  <div class="right">--Alisa N, Brooklyn</div>
           </div>
+          <div class="review">
+“The cupping is like pure magic for a sore back.  I would definitely recommend Dr. Sarah to anyone seeking a compassionate acupuncturist."
+  <div class="right">--Alisa N, Brooklyn</div> 
+          </div>
+          <div class="review">
+“I came to Sarah while feeling lost and hopeless about a ruptured ovarian cyst I previously had. Sarah not only lifted my spirits, she got me excited about living a healthier way."
+          <div class="right">--Stav L, Brooklyn/div>            
+          </div>
         </div>
       </div>
    </div>
