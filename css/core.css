@@ -51,6 +51,10 @@ body {
   background: none;
 }
 
+#content.beauty {
+  background-image: url(/image/background_beauty.jpg);
+}
+
 #herbThumbs, #acuThumbs, #galleryThumbs {
     position:absolute;
     bottom:32px;
@@ -133,7 +137,7 @@ body {
 
 #content.about #rightsquare {
   top:125px;
-  width:440px;  
+  width:480px;  
   /*32px left and right padding, 490px total */
 /*  bottom:278px;
   top:auto;
