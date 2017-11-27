@@ -140,6 +140,6 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
           <a href="https://instagram.com/aquariusacupuncture/" target="_blank"><img src="image/instagram.png"/></a>
       </div>
       <div id="navCopyright">
-   &copy; 2015 Aquarius Acupuncture PLLC
+   &copy; <?= date("Y") ?> Aquarius Acupuncture PLLC
       </div>
     </div>
