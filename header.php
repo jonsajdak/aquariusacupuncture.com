@@ -100,6 +100,11 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
             <div class="label">blog</div>
           </a>
         </div>
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/beauty' ? 'active' : '' ?>" id="menuBeauty">
+          <a href="/beauty">
+            <div class="label">beauty acupuncture™</div>
+          </a>
+        </div>
       </div>
       <div id="navButton">
         <a id="book_button" class="btn btn-small" href="https://www.genbook.com/bookings/slot/reservation/30397544?bookingSourceId=1000" target="_blank">Book&nbsp;Now</a>

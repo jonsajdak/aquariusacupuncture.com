@@ -9,6 +9,7 @@ RewriteRule ^gallery$ /gallery.php
 RewriteRule ^about$ /about.php
 RewriteRule ^mentorship$ /mentorship-program.php
 RewriteRule ^mentorship-pricing$ /mentorship-pricing.php
+RewriteRule ^beauty$ /beauty.php
 
 #AuthType Basic
 #AuthName "Password Protected Area"
