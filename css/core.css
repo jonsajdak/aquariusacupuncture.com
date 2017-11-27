@@ -132,8 +132,9 @@ body {
 }
 
 #content.about #rightsquare {
-  top:150px;
-  /*width:426px;*/  /*32px left and right padding, 490px total */
+  top:125px;
+  width:425px;  
+  /*32px left and right padding, 490px total */
 /*  bottom:278px;
   top:auto;
 */
