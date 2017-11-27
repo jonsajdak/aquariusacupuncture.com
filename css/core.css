@@ -133,7 +133,7 @@ body {
 
 #content.about #rightsquare {
   top:125px;
-  width:425px;  
+  width:440px;  
   /*32px left and right padding, 490px total */
 /*  bottom:278px;
   top:auto;
@@ -154,6 +154,7 @@ body {
 
 #content.about #rightsquare .title {
   color:#8ca5be;
+  font-size:48px;
 }
 
 #content.about #rightsquare .content .section {
