@@ -134,8 +134,8 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
       </div>
 
       <div id="navAddress">
-80 E 11th Street, Suite 309
-<br/>New York, NY 10003
+928 Broadway, Suite 703
+<br/>New York, NY 10010
 <br/>(917) 496-5481
       </div>
       <div id="navSocialIcons">
