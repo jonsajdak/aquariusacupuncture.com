@@ -25,7 +25,7 @@ body {
 }
 
 #content.acupuncture {
-    background: url('/image/acu_full/RM-0514-SSadjak-144Final.jpg') no-repeat;
+    background: url('/image2/background_acupuncture.jpg') no-repeat;
     background-size: cover;
     background-position: left center;
 }
@@ -41,8 +41,14 @@ body {
     background-position: left center;
 }
 
-#content.gallery {
-    background: url('/image/gallery_full/Page 4 - Photo Gallery - Towels.jpg') no-repeat;
+#content.cupping {
+    background: url('/image2/background_cupping.jpg') no-repeat;
+    background-size: cover;
+    background-position: left center;
+}
+
+#content.office {
+    background: url('/image2/background_office.jpg') no-repeat;
     background-size: cover;
     background-position: left center;
 }
@@ -52,10 +58,10 @@ body {
 }
 
 #content.beauty {
-  background-image: url(/image/background_beauty.jpg);
+  background-image: url(/image2/background_beauty.jpg);
 }
 
-#herbThumbs, #acuThumbs, #galleryThumbs {
+#herbThumbs, #acuThumbs, #officeThumbs, #cuppingThumbs {
     position:absolute;
     bottom:32px;
     right:26px;
@@ -68,13 +74,13 @@ body {
     max-width:480px;
 }
 
-#galleryThumbs {
+#officeThumbs {
     min-width:720px;
     max-width:720px;
 }
 
 
-.herb_thumb, .acu_thumb, .gallery_thumb {
+.herb_thumb, .acu_thumb, .office_thumb, .cupping_thumb {
     float:left;
     margin:16px 0px 0px 16px;
 
@@ -87,7 +93,7 @@ body {
     cursor:pointer;
 }
 
-.herb_thumb.active, .acu_thumb.active, .gallery_thumb.active {
+.herb_thumb.active, .acu_thumb.active, .office_thumb.active, .cupping_thumb.active {
     border: 4px solid rgba(140,165,190,.8);
     margin: 14px -2px -2px 14px;
 }
@@ -149,7 +155,7 @@ body {
   top:auto;
 }
 
-#content.gallery #rightsquare {
+#content.office #rightsquare {
   bottom:160px;
   width:450px;
 /*  height:250px; */
@@ -186,6 +192,12 @@ body {
   bottom:160px;
   top:auto;
 }
+
+#content.cupping #rightsquare {
+  bottom:160px;
+  top:auto;
+}
+
 
 
 /* top nav */

@@ -5,7 +5,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^acupuncture$ /acupuncture.php
 RewriteRule ^herbs$ /herbs.php
-RewriteRule ^gallery$ /gallery.php
+RewriteRule ^cupping$ /cupping.php
+RewriteRule ^office$ /office.php
 RewriteRule ^about$ /about.php
 RewriteRule ^mentorship$ /mentorship-program.php
 RewriteRule ^mentorship-pricing$ /mentorship-pricing.php

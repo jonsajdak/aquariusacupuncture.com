@@ -12,16 +12,16 @@
      </div>
      <div id="acuThumbs">
        <div class="acu_thumb active" title="Acupuncture 1">
-           <img src="image/acu_thumbs/RM-0514-SSadjak-144Final.jpg"/>
+           <img src="image2/acupuncture1.jpg">
        </div>
        <div class="acu_thumb" title="Acupuncture 2">
-           <img src="image/acu_thumbs/RM-0514-SSadjak-121.jpg">
+           <img src="image2/acupuncture2.jpg">
        </div>
        <div class="acu_thumb" title="Acupuncture 3">
-           <img src="image/acu_thumbs/RM-0514-SSadjak-277.jpg"/>
+           <img src="image2/acupuncture3.jpg">
        </div>
        <div class="acu_thumb" title="Acupuncture 4">
-           <img src="image/acu_thumbs/RM-0514-SSadjak-101.jpg">
+           <img src="image2/acupuncture4.jpg">
        </div>
      </div>
    </div>
