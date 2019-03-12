@@ -7,7 +7,7 @@
       <div id="rightsquare">
         <div class="title"></div>
         <div class="content">
-          Office Lobby
+          Acupuncture is a modality of Traditional Chinese Medicine (TCM) that has been in healthcare for thousands of years in China. It is helpful for a wide variety of disorders, such as pain, reproduction disorders, neurological dysfunctions, musculoskeletal disorders, and more.
         </div>
       </div>
       <div id="officeThumbs">
