@@ -8,8 +8,8 @@
     <script type="text/javascript" src="/js/jquery-2.1.0.js"></script>
     <script type="text/javascript" src="/js/core.js"></script>
 
-    <link rel="stylesheet" href="/css/core.css">
-    <link rel="stylesheet" href="/css/mobile.css">
+    <link rel="stylesheet" href="/css/core.css?v=1.1">
+    <link rel="stylesheet" href="/css/mobile.css?v=1.1">
 
     <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
 
