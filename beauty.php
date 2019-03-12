@@ -1,7 +1,6 @@
 <?php include('header.php'); ?>
 
    <link rel="stylesheet" href="/css/beauty_mobile.css">
-   <link rel="stylesheet" href="/css/beauty_mobile.css">
 
    <div id="content" class="beauty">
       <div id="rightsquare">
