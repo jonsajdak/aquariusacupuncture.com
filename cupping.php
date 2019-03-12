@@ -7,7 +7,7 @@
      <div id="rightsquare">
         <div class="title">Cupping</div>
         <div class="content">
-           Cupping
+           Cupping is technique in which cups are placed on the skin to create a suction, increasing blood flow and relieving muscle strains.
         </div>
      </div>
      <div id="cuppingThumbs">

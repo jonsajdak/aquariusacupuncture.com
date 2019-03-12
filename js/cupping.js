@@ -1,19 +1,19 @@
 var cupping_data = [
-		    {'name':'Cupping',
-		     'desc':'Cupping',
-		     'filename':'background_cupping.jpg'},
     {'name':'Cupping',
-     'desc':'Cupping 1',
+     'desc':'Cupping is technique in which cups are placed on the skin to create a suction, increasing blood flow and relieving muscle strains.',
+     'filename':'background_cupping.jpg'},
+    {'name':'Cupping',
+     'desc':'Cupping is technique in which cups are placed on the skin to create a suction, increasing blood flow and relieving muscle strains.',
      'filename':'cupping1.jpg'},
     {'name':'Cupping',
-     'desc':'Cupping 2',
+     'desc':'Cupping is technique in which cups are placed on the skin to create a suction, increasing blood flow and relieving muscle strains.',
      'filename':'cupping2.jpg'},
     {'name':'Cupping',
-     'desc':'Cupping 3',
+     'desc':'Cupping is technique in which cups are placed on the skin to create a suction, increasing blood flow and relieving muscle strains.',
      'filename':'cupping3.jpg'},
-		    {'name':'Cupping',
-		     'desc':'Cupping 4',
-		     'filename':'cupping4.jpg'},
+    {'name':'Cupping',
+     'desc':'Cupping is technique in which cups are placed on the skin to create a suction, increasing blood flow and relieving muscle strains.',
+     'filename':'cupping4.jpg'},
 ];
 
 
