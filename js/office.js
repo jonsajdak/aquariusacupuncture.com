@@ -1,15 +1,14 @@
 var office_data = [
   {'name':'',
-   'desc':'Office Lobby',
+   'desc':'Acupuncture is a modality of Traditional Chinese Medicine (TCM) that has been in healthcare for thousands of years in China. It is helpful for a wide variety of disorders, such as pain, reproduction disorders, neurological dysfunctions, musculoskeletal disorders, and more.',
     'filename':'background_office.jpg'},
   {'name':'',
-   'desc':'Office Lobby',
+   'desc':'Acupuncture works by releasing the body\'s natural endorphins and anti-inflammatory hormones. It regulates the parasympathetic system, bringing balance to the entire body and benefiting internal organs. Furthermore, acupuncture increases blood flow and reduces muscle tension.',
    'filename':'office1.jpg'},
   {'name':'',
-   'desc':'Treament Room 1',
+   'desc':'Traditional Chinese Medicine (TCM) takes root in over 2000 years of history. Its presence has integrated into mainstream healthcare here in the U.S., allowing millions of people to take part in its benefits. TCM is not only a medicine, but a lifestyle that creates optimal health.',
    'filename':'office2.jpg'}
 ];
-
 
 
 $(function() {
