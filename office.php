@@ -2,7 +2,7 @@
 
    <script type="text/javascript" src="/js/office.js"></script>
 
-   <div id="content" class="gallery">
+   <div id="content" class="office">
       <div id="rightsquare">
         <div class="title"></div>
         <div class="content">
@@ -10,7 +10,10 @@
         </div>
       </div>
       <div id="officeThumbs">
-        <div class="office_thumb active" title="Lobby">
+        <div class="office_thumb active" title="Office">
+          <img src="image2/office_thumbs/background_office.jpg">
+        </div>
+        <div class="office_thumb" title="Office 2">
           <img src="image2/office_thumbs/office1.jpg">
         </div>
         <div class="office_thumb" title="Treament Room">

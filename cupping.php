@@ -7,11 +7,14 @@
      <div id="rightsquare">
         <div class="title">Cupping</div>
         <div class="content">
-          Coming Soon
+           Cupping
         </div>
      </div>
      <div id="cuppingThumbs">
-       <div class="cupping_thumb active" title="Cupping 1">
+       <div class="cupping_thumb active" title="Cupping">
+           <img src="image2/cupping_thumbs/background_cupping.jpg"/>
+       </div>
+       <div class="cupping_thumb" title="Cupping 1">
            <img src="image2/cupping_thumbs/cupping1.jpg"/>
        </div>
        <div class="cupping_thumb" title="Cupping 2">
