@@ -56,11 +56,11 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/acupuncture' ? 'active' : '' ?>">
         <a href="/acupuncture">acupuncture</a>
       </div>
-      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/herbs' ? 'active' : '' ?>">
-        <a href="/herbs">herbs</a>
-      </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/cupping' ? 'active' : '' ?>">
         <a href="/cupping">cupping</a>
+      </div>
+      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/herbs' ? 'active' : '' ?>">
+        <a href="/herbs">herbs</a>
       </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/office' ? 'active' : '' ?>">
         <a href="/office">office</a>
@@ -86,14 +86,14 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
             <div class="label">acupuncture</div>
           </a>
         </div>
-        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/herbs' ? 'active' : '' ?>" id="menuHerbs">
-          <a href="/herbs">
-            <div class="label">herbs</div>
-          </a>
-        </div>
         <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/cupping' ? 'active' : '' ?>" id="menuCupping">
           <a href="/cupping">
             <div class="label">cupping</div>
+          </a>
+        </div>
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/herbs' ? 'active' : '' ?>" id="menuHerbs">
+          <a href="/herbs">
+            <div class="label">herbs</div>
           </a>
         </div>
         <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/office' ? 'active' : '' ?>" id="menuPhotos">
