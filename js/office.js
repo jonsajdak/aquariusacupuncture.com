@@ -1,12 +1,12 @@
 var office_data = [
   {'name':'',
-   'desc':'Office 1',
+   'desc':'Office Lobby',
     'filename':'background_office.jpg'},
   {'name':'',
-   'desc':'Office 2',
+   'desc':'Office Lobby',
    'filename':'office1.jpg'},
   {'name':'',
-   'desc':'Office 3',
+   'desc':'Treament Room 1',
    'filename':'office2.jpg'}
 ];
 
