@@ -1,6 +1,7 @@
 <?php include('header.php'); ?>
 
    <script type="text/javascript" src="/js/office.js"></script>
+   <link rel="stylesheet" href="/css/office_mobile.css">
 
    <div id="content" class="office">
       <div id="rightsquare">
