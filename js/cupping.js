@@ -9,8 +9,11 @@ var cupping_data = [
      'desc':'Cupping 2',
      'filename':'cupping2.jpg'},
     {'name':'Cupping',
-     'desc':'Cupping 1',
+     'desc':'Cupping 3',
      'filename':'cupping3.jpg'},
+		    {'name':'Cupping',
+		     'desc':'Cupping 4',
+		     'filename':'cupping4.jpg'},
 ];
 
 
