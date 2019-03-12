@@ -90,9 +90,9 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
             <div class="label">cupping</div>
           </a>
         </div>
-        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/gallery' ? 'active' : '' ?>" id="menuPhotos">
-          <a href="/gallery">
-            <div class="label">photo gallery</div>
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/office' ? 'active' : '' ?>" id="menuPhotos">
+          <a href="/office">
+            <div class="label">office</div>
           </a>
         </div>
         <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/about' ? 'active' : '' ?>" id="menuAbout">
