@@ -12,7 +12,7 @@ var acu_data = [
    'desc':'Acupuncture is helpful for a wide variety of disorders, such as pain, reproduction disorders, neurological dysfunctions, musculoskeletal disorders, and more.',
    'filename':'acupuncture3.jpg'},
   {'name':'Acupuncture',
-   'desc':'',
+   'desc':'Acupuncture is helpful for a wide variety of disorders, such as pain, reproduction disorders, neurological dysfunctions, musculoskeletal disorders, and more.',
    'filename':'acupuncture4.jpg'}
 ];
 
