@@ -113,7 +113,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         </div>
         <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/beauty' ? 'active' : '' ?>" id="menuBeauty">
           <a href="/beauty">
-            <div class="label">beauty acupuncture™</div>
+            <div class="label">beauty acupuncture</div>
           </a>
         </div>
       </div>
