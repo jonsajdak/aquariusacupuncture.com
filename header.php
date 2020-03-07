@@ -72,7 +72,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         <a href="http://aquariusacupuncture.wordpress.com">blog</a>
       </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/beauty' ? 'active' : '' ?>">
-        <a href="/beauty">beauty acupuncture™</a>
+        <a href="/beauty">beauty acupuncture</a>
       </div>
     </div>
 
