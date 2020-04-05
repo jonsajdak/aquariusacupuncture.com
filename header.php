@@ -140,8 +140,11 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_302bff1d1b5391d71cf9ac600_1c7c14c02e" tabindex="-1" value=""></div>
 	</form>
 </div>
-
 <!--End mc_embed_signup-->
+
+        <div id="fullscript">
+          <a href="https://us.fullscript.com/welcome/aquariusacupuncture" target="_top"><img src="https://assets.fullscript.com/buttons/1.jpg" alt="Purchase products through our Fullscript virtual dispensary." border="0"></a>
+        </divo>
       </div>
 
       <div id="navAddress">
