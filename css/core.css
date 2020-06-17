@@ -95,8 +95,8 @@ body {
 
 #safetyThumbs {
     bottom:48px;
-    min-width:400px;
-    max-width:400px;
+    min-width:500px;
+    max-width:500px;
 }
 
 .herb_thumb, .acu_thumb, .office_thumb, .cupping_thumb, .safety_thumb {
