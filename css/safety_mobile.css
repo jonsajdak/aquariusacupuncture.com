@@ -1,0 +1,53 @@
+@media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 667px)
+    and (-webkit-min-device-pixel-ratio : 2)
+{
+
+#content {
+  width:100%;
+  position:relative;
+  background-image: url(/image2/safety1.jpg');
+}
+
+#rightsquare {
+  width:426px;  /*32px left and right padding, 490px total */
+  bottom:278px;
+  top:auto;
+}
+
+#rightsquare .title {
+  color:#8ca5be;
+}
+
+#safetyThumbs {
+    position:absolute;
+    bottom:15px;
+    right:0px;
+    width:280px;
+    max-width:400;
+    min-width:0;
+    height:55px;
+}
+
+.safety_thumb {
+    float:left;
+    margin:5px 0px 0px 5px;
+
+    width:45px;
+    height:45px;
+    border:2px solid white;
+
+    cursor:pointer;
+}
+.safety_thumb img {
+    width:45px;
+    height:45px;
+}
+
+.safety_thumb.active {
+    border: 4px solid rgba(140,165,190,.8);
+    margin: 3px -2px -2px 3px;
+}
+
+}

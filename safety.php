@@ -1,6 +1,7 @@
 <?php include('header.php'); ?>
 
    <script type="text/javascript" src="/js/safety.js"></script>
+   <link rel="stylesheet" href="/css/safety_mobile.css">
 
    <div id="content" class="safety">
      <div id="rightsquare">

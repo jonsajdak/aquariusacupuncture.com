@@ -75,7 +75,7 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         <a href="/beauty">beauty acupuncture</a>
       </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/safety' ? 'active' : '' ?>">
-        <a href="/safety">COVID-19</a>
+        <a href="/safety">COVID-19 Safety</a>
       </div>
     </div>
 
