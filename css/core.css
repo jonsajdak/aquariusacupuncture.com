@@ -95,8 +95,8 @@ body {
 
 #safetyThumbs {
     bottom:48px;
-    min-width:360px;
-    max-width:360px;
+    min-width:400px;
+    max-width:400px;
 }
 
 .herb_thumb, .acu_thumb, .office_thumb, .cupping_thumb, .safety_thumb {
@@ -188,6 +188,13 @@ body {
   bottom:160px;
   width:450px;
 /*  height:250px; */
+  top:auto;
+}
+
+
+#content.safety #rightsquare {
+  bottom:160px;
+  width:450px;
   top:auto;
 }
 
