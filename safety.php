@@ -10,16 +10,19 @@
         </div>
      </div>
      <div id="safetyThumbs">
-       <div class="safety_thumb active" title="">
+       <div class="safety_thumb active" title="COVID-19 Prevention & Safety Policy">
            <img src="image2/safety_thumbs/safety1.jpg"/>
        </div>
-       <div class="safety_thumb" title="">
+       <div class="safety_thumb" title="Pre-Visit Protocol">
            <img src="image2/safety_thumbs/safety2.jpg"/>
        </div>
-       <div class="safety_thumb" title="">
+       <div class="safety_thumb" title="Day of Treatment">
            <img src="image2/safety_thumbs/safety3.jpg"/>
        </div>
-       <div class="safety_thumb" title="">
+       <div class="safety_thumb" title="Cleaning and Disinfecting Procedures">
+           <img src="image2/safety_thumbs/safety3.jpg"/>
+       </div>
+       <div class="safety_thumb" title="Acupuncture Safety">
            <img src="image2/safety_thumbs/safety4.jpg"/>
        </div>
      </div>
