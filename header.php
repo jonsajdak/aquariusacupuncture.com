@@ -74,6 +74,9 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/beauty' ? 'active' : '' ?>">
         <a href="/beauty">beauty acupuncture</a>
       </div>
+      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/safety' ? 'active' : '' ?>">
+        <a href="/safety">COVID-19</a>
+      </div>
     </div>
 
     <div id="leftnav" class="">
@@ -114,6 +117,11 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
         <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/beauty' ? 'active' : '' ?>" id="menuBeauty">
           <a href="/beauty">
             <div class="label">beauty acupuncture</div>
+          </a>
+        </div>
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/safety' ? 'active' : '' ?>" id="menuSafety">
+          <a href="/safety">
+            <div class="label">COVID-19 Safety</div>
           </a>
         </div>
       </div>
