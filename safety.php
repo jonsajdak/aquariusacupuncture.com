@@ -1,13 +1,12 @@
 <?php include('header.php'); ?>
 
    <script type="text/javascript" src="/js/safety.js"></script>
-   <link rel="stylesheet" href="/css/herbs_mobile.css">
 
-   <div id="content" class="herbs">
+   <div id="content" class="safety">
      <div id="rightsquare">
-        <div class="title">hong hua</div>
+        <div class="title">COVID-19 Prevention & Safety Policy</div>
         <div class="content">
-            <i>hong hua</i> is used to regulate menstruation for those with amenorrhea and dysmenorrhea
+            At Aquarius Acupuncture PLLC, our top priority is your health and safety. We maintain the highest standards of cleanliness and have implemented procedures that will provide you with safe and comfortable care.  
         </div>
      </div>
      <div id="safetyThumbs">
