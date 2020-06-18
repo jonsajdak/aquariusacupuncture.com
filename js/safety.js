@@ -10,10 +10,10 @@ var safety_data = [
       'filename':'safety3.jpg'},
      {'name':'Cleaning and Disinfecting Procedures',
      'desc':'The clinic space is cleaned with EPA-registered disinfectants before and after each patient visit. Additionally, we run UV sanitation lights in treatment rooms between patients to sanitize the air and surfaces.',
-      'filename':'safety3.jpg'},
+      'filename':'safety4.jpg'},
     {'name':'Acupuncture Safety',
      'desc':'As required for all Licensed Acupuncturists, I am certified in the Clean Needle Technique (CNT) by the Colleges of Acupuncture and Oriental Medicine (CCAOM). I am trained to abide by national safety standards by maintaining a clean clinical setting and I only use sterile, single-use, disposable acupuncture needles. I will also be wearing a face mask at all times during your treatment.',
-     'filename':'safety4.jpg'},
+     'filename':'safety5.jpg'},
 ];
 
 

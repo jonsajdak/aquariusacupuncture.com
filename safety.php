@@ -21,10 +21,10 @@
            <img src="image2/safety_thumbs/safety3.jpg"/>
        </div>
        <div class="safety_thumb" title="Cleaning and Disinfecting Procedures">
-           <img src="image2/safety_thumbs/safety3.jpg"/>
+           <img src="image2/safety_thumbs/safety4.jpg"/>
        </div>
        <div class="safety_thumb" title="Acupuncture Safety">
-           <img src="image2/safety_thumbs/safety4.jpg"/>
+           <img src="image2/safety_thumbs/safety5.jpg"/>
        </div>
      </div>
   </div>
