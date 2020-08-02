@@ -173,10 +173,7 @@ body {
 #content.about #rightsquare {
   top:125px;
   width:480px;  
-  /*32px left and right padding, 490px total */
-/*  bottom:278px;
-  top:auto;
-*/
+  overflow-y:scroll;
 }
 
 #content.home #rightsquare {
@@ -187,7 +184,6 @@ body {
 #content.office #rightsquare {
   bottom:160px;
   width:450px;
-/*  height:250px; */
   top:auto;
 }
 
