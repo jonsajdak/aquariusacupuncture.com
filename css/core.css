@@ -172,8 +172,9 @@ body {
 
 #content.about #rightsquare {
   top:125px;
-  width:480px;  
-  overflow-y:scroll;
+  width:480px;
+  height:600px;
+  overflow-y: auto;
 }
 
 #content.home #rightsquare {
