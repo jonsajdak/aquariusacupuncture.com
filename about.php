@@ -44,13 +44,13 @@ Your body wants to be in balance. What I love about Traditional Chinese Medicine
 <br/><br/>
 Let’s work together
 <br/><br/>
-Things I’m into:
+<b>Things I’m into:</b>
 <br/>• <b>Breaking rules and questioning stories.</b> So many of us put limits on ourselves that don’t need to be there. I’m all about throwing out what doesn’t work, and building a new system just for you.
 <br/>• <b>Lions Mane and Reishi mushrooms</b> are amazing for mood, mental clarity and energy.
 <br/>• <b>Not sticking your tongue out in photos.</b> Once you know what you’re looking for, it’s way too personal (your tongue tells your whole life story!).
 <br/>• <b>Watercolor painting, drawing, clarinet, piano, ukulele</b> (hey, I told you I was a musician!). 
 <br/><br/>
-My qualifications:
+<div style="font-size:20px; color:grey;">My qualifications:</div>
 <br/>• I hold a doctorate in Traditional Chinese Medicine and certificates in dermatology and fertility.
 <br/>• I have a Master’s degree in Traditional Oriental Medicine (MSTOM) at the Pacific College of Oriental Medicine. 
 <br/>• I’m nationally board certified (NCCAOM) in Traditional Oriental Medicine, acupuncture and Chinese herbal medicine.
