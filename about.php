@@ -51,10 +51,10 @@ Things I’m into:
 <br/>Watercolor painting, drawing, clarinet, piano, ukulele (hey, I told you I was a musician!). 
 <br/><br/>
 My qualifications:
-<br/>I hold a doctorate in Traditional Chinese Medicine and certificates in dermatology and fertility.
-<br/>I have a Master’s degree in Traditional Oriental Medicine (MSTOM) at the Pacific College of Oriental Medicine. 
-<br/>I’m nationally board certified (NCCAOM) in Traditional Oriental Medicine, acupuncture and Chinese herbal medicine.
-<br/>I hold state licensures for acupuncture in California and New York.
+<br/>• I hold a doctorate in Traditional Chinese Medicine and certificates in dermatology and fertility.
+<br/>• I have a Master’s degree in Traditional Oriental Medicine (MSTOM) at the Pacific College of Oriental Medicine. 
+<br/>• I’m nationally board certified (NCCAOM) in Traditional Oriental Medicine, acupuncture and Chinese herbal medicine.
+<br/>• I hold state licensures for acupuncture in California and New York.
 <br/><br/>
 
 
