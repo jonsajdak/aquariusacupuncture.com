@@ -42,8 +42,8 @@ In my coaching sessions (Traditional Chinese Medicine minus the in-person acupun
 <br/><br/>
 Your body wants to be in balance. What I love about Traditional Chinese Medicine is that it uses every single tool to help you get there. You won’t just fix your health issue. You’ll change your life, and love every second. 
 <br/><br/>
-Let’s work together
-<br/><br/>
+<div style="text-align:center;">Let’s work together</div>
+<br/>
 <b>Things I’m into:</b>
 <br/>• <b>Breaking rules and questioning stories.</b> So many of us put limits on ourselves that don’t need to be there. I’m all about throwing out what doesn’t work, and building a new system just for you.
 <br/>• <b>Lions Mane and Reishi mushrooms</b> are amazing for mood, mental clarity and energy.
@@ -64,32 +64,6 @@ Dr. Sarah Emily Sajdak is an intuitive healer who uses traditional Chinese medic
 Sajdak's treatments strengthen the system so that the body can naturally return to a state of balance. This way, as ailments are relieved, signs and symptoms do not return, and the patient will be empowered to maintain his or her wellbeing and overall health. Traditional Chinese medicine is unique in its ability to bring success to any treatment plan, whether through primary or complementary healthcare. Sarah's particular interests include internal medicine, emotional disorders, women's health, pain management, migraines, and skin conditions. Sajdak has experience treating patients in a variety of clinical settings, including community acupuncture centers, doctors' offices, and hospitals. 
 </br></br>
 Sajdak holds her doctorate in Chinese Medicine, as well as a specialized diploma in dermatology. She received her master's degree in Traditional Oriental Medicine (MSTOM) at the Pacific College of Oriental College. She is nationally board certified (NCCAOM) in traditional Oriental medicine, acupuncture, and Chinese herbal medicine, and holds state licensure in acupuncture in California and New York.
--->
-<!--
-          <div class="section">
-            <b>Schools Attended:</b>
-            <dd>Pacific College of Oriental Medicine</dd>
-            <dd>New York University
-            <dd>Universite Paris VII
-          </div>
-          <div class="section">
-            <b>Modalities</b>
-            <dd>Acupuncture
-            <dd>Herbs
-            <dd>Cupping
-            <dd>Moxibustion
-            <dd>Tui Na
-            <dd>& Other Traditional Modalities
-          </div>
-          <div class="section">
-            <b>Areas of Interest:</b>
-            <dd>Internal Medicine
-            <dd>Emotional Disorders
-            <dd>Pain Management
-            <dd>Women's Health
-            <dd>Fertility
-            <dd>Facial Rejuvination & More...
-          </div>
 -->
         </div>
       </div>
