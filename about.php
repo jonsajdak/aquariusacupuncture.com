@@ -16,7 +16,7 @@ Hi, I’m Dr. Sarah Emily Sajdak (DAOM, L.Ac) and I think there’s something ab
 <div style="font-size:20px; color:grey;">There is no “one-size-fits-all” prescription with what I do.</div>
 <br/>When we have our sessions together, we’ll get into the details that traditional Western medicine doctors will never ask about. My questions might seem mundane at first, but I like to dig into the minutiae to see what may have been missed. Very often, it’s a tiny detail that connects the dots and shows the way to heal. 
 <br/><br/>
-<dd><b>If you’re wondering what I mean</b>, stick out your tongue! (and check the results with my Tongue Diagnostic Guide). You may find some surprising answers - and if you find more questions, we can talk about it on a free 10-minute call! 
+<dd><b>If you’re wondering what I mean</b>, stick out your tongue! (and check the results with my Tongue Diagnostic Guide). You may find some surprising answers - and if you find more questions, we can talk about it on a free 10-minute call! </dd>
 <br/><br/>
 Yeah, Traditional Chinese Medicine is different. It takes the whole you - your body, your lifestyle, your eating habits, sleeping habits and stress into account. In fact, the first question I’ll ask you is “Do you like your job?” because that alone can deeply affect your health.
 <br/><br/>
