@@ -25,9 +25,9 @@ A lesser known aspect of Traditional Chinese Medicine is working with energetic 
 Then we’ll work together to bring you back into balance, so you’ll feel like the best version of yourself. 
 <br/><br/>
 My specialties include healing migraines, acne and fertility issues using a blend of:
-<br/>Acupuncture
-<br/>Herbs, supplements, and diet - the “food as medicine” approach
-<br/>Mindfulness & Mindset to reduce the stress that can block healing from happening
+<br/>• Acupuncture
+<br/>• Herbs, supplements, and diet - the “food as medicine” approach
+<br/>• Mindfulness & Mindset to reduce the stress that can block healing from happening
 <br/><br/>
 What is it like to have a session with me?
 <br/><br/>
@@ -45,10 +45,10 @@ Your body wants to be in balance. What I love about Traditional Chinese Medicine
 Let’s work together
 <br/><br/>
 Things I’m into:
-<br/>Breaking rules and questioning stories. So many of us put limits on ourselves that don’t need to be there. I’m all about throwing out what doesn’t work, and building a new system just for you.
-<br/>Lions Mane and Reishi mushrooms are amazing for mood, mental clarity and energy.
-<br/>Not sticking your tongue out in photos. Once you know what you’re looking for, it’s way too personal (your tongue tells your whole life story!).
-<br/>Watercolor painting, drawing, clarinet, piano, ukulele (hey, I told you I was a musician!). 
+<br/>• Breaking rules and questioning stories. So many of us put limits on ourselves that don’t need to be there. I’m all about throwing out what doesn’t work, and building a new system just for you.
+<br/>• Lions Mane and Reishi mushrooms are amazing for mood, mental clarity and energy.
+<br/>• Not sticking your tongue out in photos. Once you know what you’re looking for, it’s way too personal (your tongue tells your whole life story!).
+<br/>• Watercolor painting, drawing, clarinet, piano, ukulele (hey, I told you I was a musician!). 
 <br/><br/>
 My qualifications:
 <br/>• I hold a doctorate in Traditional Chinese Medicine and certificates in dermatology and fertility.
