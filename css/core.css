@@ -173,7 +173,7 @@ body {
 #content.about #rightsquare {
   top:125px;
   width:480px;
-  height:600px;
+  bottom:125px;
   overflow-y: auto;
 }
 
