@@ -13,8 +13,8 @@ That’s not how I initially planned my business, but I guess when you’re an a
 <br/><br/>
 Hi, I’m Dr. Sarah Emily Sajdak (DAOM, L.Ac) and I think there’s something about us creatives that attracts us to alternative medicine. We don’t like to be limited by tradition and other people’s systems don’t typically work for us. We’re always forging our own paths. And the Traditional Chinese Medicine holistic approach to health is very much about finding the unique path to health that works for you.
 <br/><br/>
-<div style="font-size:15px;font-color:grey;">There is no “one-size-fits-all” prescription with what I do.</div>
-<br/><br/>When we have our sessions together, we’ll get into the details that traditional Western medicine doctors will never ask about. My questions might seem mundane at first, but I like to dig into the minutiae to see what may have been missed. Very often, it’s a tiny detail that connects the dots and shows the way to heal. 
+<div style="font-size:20px; color:grey;">There is no “one-size-fits-all” prescription with what I do.</div>
+<br/>When we have our sessions together, we’ll get into the details that traditional Western medicine doctors will never ask about. My questions might seem mundane at first, but I like to dig into the minutiae to see what may have been missed. Very often, it’s a tiny detail that connects the dots and shows the way to heal. 
 <br/><br/>
 <dd><b>If you’re wondering what I mean</b>, stick out your tongue! (and check the results with my Tongue Diagnostic Guide). You may find some surprising answers - and if you find more questions, we can talk about it on a free 10-minute call! 
 <br/><br/>
@@ -29,8 +29,8 @@ My specialties include healing migraines, acne and fertility issues using a blen
 <br/>• Herbs, supplements, and diet - the “food as medicine” approach
 <br/>• Mindfulness & Mindset to reduce the stress that can block healing from happening
 <br/><br/>
-<div style="font-size:16px;">What is it like to have a session with me?</div>
-<br/><br/>
+<div style="font-size:20px;">What is it like to have a session with me?</div>
+<br/>
 A lot of my clients tell me they feel profound, unconditional love when they leave my sessions that they carry into the rest of their weeks — that’s a side effect, I guess? Others tell me it’s like speaking to your intuitive best friend, who knows a lot about different ways to heal naturally. 
 <br/><br/>
 In my coaching sessions (Traditional Chinese Medicine minus the in-person acupuncture), I will ask you questions to get to know the whole you. From there I will make recommendations of herbs, supplements and realistically doable lifestyle changes (ie. I’m not going to tell you to move from New York to a monastery, or change your high-stress acting job to rural chicken farmer). We will try things and see how you feel, moving towards what makes you feel better. 
