@@ -73,7 +73,6 @@ Ten weeks is enough time to see significant results from our work together, and 
 Traditional Chinese medicine offers far more solutions than Western Medicine. So if you’re frustrated and almost ready to give up — especially with acne, migraines or infertility — you may find what you need with a more holistic approach and truly transformational lifestyle improvements.
 <br/><br/>
 <h2>Not sure if this is for you?</h2>
-<br/><br/>
 <h2>Try a Free 10-Minute Consultation</h2>
 <br/><br/>
 <b>Success Story #1: Acne</b>
