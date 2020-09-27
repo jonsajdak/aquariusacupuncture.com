@@ -43,7 +43,7 @@ As our coaching progresses, you will get to know yourself more deeply. You’ll 
 And as you start aligning your diet and lifestyle around what makes you feel good, you’ll find unexpected clarity in other aspects of your life. Empowering you further.
 I will use all of the tools at my disposal to find the unique combination that works best for you. Some of what we’ll explore includes:
   </div>   
-  <br/><br/>
+  <br/>
   <ul>
 <li>Herbs, supplements and a whole-foods based diet (food as medicine)</li>
 <li>Lifestyle analysis to uncover stressors that can affect your health and wellbeing</li>
@@ -53,13 +53,13 @@ I will use all of the tools at my disposal to find the unique combination that w
 <li>In-person acupuncture (or a recommendation for an acupuncture professional local to you).</li>
 <li>Holistic healing is about more than your whole body - it’s about your whole life</li>
 </ul>
-<br/><br/>
+<br/>
 Here’s how we can start your holistic health journey.
-<h1>Back into Balance: Online Holistic Health Coaching to balance the body for beautiful skin, headache relief, fertility & optimal health</h1>
+<h2>Back into Balance: Online Holistic Health Coaching to balance the body for beautiful skin, headache relief, fertility & optimal health</h2>
 <br/> 5 half-hour coaching sessions online, one session every other week, for 10 weeks
 <br/><br/>
 Ten weeks is enough time to see significant results from our work together, and it’s long enough to form new habits you’ll want to stick with (because you’ll love the results). In those ten weeks, here’s what we’ll do.
-<br/><br/>
+<br/>
 <ul>
 <li>Our work starts with an introductory call to understand what health issues you’re experiencing, and what goals you have for your health. Tell me what you’d like to focus on, and as we work to bring your whole body into alignment, we’ll spend extra time creating a targeted plan to solve your specific issue.</li>
 <li>5 half-hour online video call sessions (one every other week). These calls are focused, highly informative, and quite capable of getting you to the transformative goal you want. </li>
@@ -67,7 +67,7 @@ Ten weeks is enough time to see significant results from our work together, and 
 <li>We’ll talk about your lifestyle - sleep, stress, career, exercise, relationships and habits - to find what might be affecting your health in your larger environment. We will evaluate your diet for potential causes of imbalances and make manageable modifications to support your health goals. And together, we will identify your improvements and determine the best plan to help you continue feeling better.</li>
 <li>In-between-session support via email. Ask me questions or tell me your observations, and I’ll reply within 24-48 business hours.</li>
 </ul>
-<br/><br/>
+<br/>
 <b>Package Price: $444</b>
 <br/>
 <br/>
@@ -87,6 +87,7 @@ I booked my first appointment with Dr. Sajdak, and was nervous and skeptical. I 
 The first area to exhibit massive improvement was my forehead. Within about a month of treatment, my forehead acne was almost completely gone. After another few months of weekly treatment, Dr. Sajdak and I would often look in the mirror directly afterward sessions and notice that a lot of the dark spots of irritation in my skin had faded, just from that session alone. I recall in September of that year, putting on makeup, and realizing for the very first time that my cystic acne had drastically decreased. By the end of that year, my cystic acne had totally cleared on my cheeks, my jaw line, my forehead, and my neck. Dr. Sajdak’s work truly created lasting change within my body and for my skin by treating my deeper rooted issues, rather than being a temporary fix. I have yet to have a breakout on my face as bad as my condition prior to working with Dr. Sajdak. I still get a pimple here and there but they are few and far between, nowhere near as deeply set as the cysts I had before treatment with Dr. Sajdak, and they dissipate with a little time and care. I am now exceptionally proud of my skin’s health. I went to my facialist who referred me to Dr. Sajdak a few months after weekly treatment, and she examined my skin and said “It’s completely transformed!”. The confidence I have in my skin’s health now is due to the time, care, and efficiency of Dr. Sajdak. I am grateful for her expertise, patience, and kindness every day when I look in the mirror.
 <br/><br/>
 <b>Success Story #2: Headache</b>
+<br/><br/>
 I feel endlessly grateful my intuition led me to book my first appointment with Sarah in December 2019. I had been suffering from debilitating tension headaches for 2 years and it was beginning to interfere with my relationships and work. I felt completely drained and forgot what it felt like to wake up with energy. I knew I needed professional help, but felt resistant to taking medication that would only mask the symptoms rather than explore the root. I felt so hopelessly overwhelmed and came across Sarah’s website where I impulsively booked an appointment for the next day.
 <br/><br/>
 The moment I walked into Sarah’s office I knew immediately that I wasn’t going to be alone in my health journey. Sarah has a special way of listening and making you feel deeply understood with zero judgement or shame. She is honest, wise, and confident, while also encouraging and kind. Not to mention her office is beautiful, warm, and a perfect safe haven in NYC. Sarah is beyond attentive during sessions and available anytime in between. I felt so taken care of and completely trusted her. 
@@ -96,14 +97,16 @@ After seeing Sarah weekly for a couple months, I noticed major shifts in my mood
 Still not sure if this is the right path for you? 
 <br/><br/>
 <b>Back into Balance 10-Week Coaching is perfect for you if…</b>
+<br/>
 <ul>
 <li>You’ve been curious about Traditional Chinese Medicine, or holistic approaches to fertility, acne or migraines</li>
 <li>You’ve tried the Western pill/topical/prescription approach and it hasn’t worked.</li>
 <li>You’re open to making some diet and lifestyle changes with the goal of feeling so much better</li>
 <li>You’ve tried acupuncture and LOVED the pre-needle talking part! This program grew out of my acupuncture consultations because I found that some people came more for our 20-minutes of coaching than the actual acupuncture. Acupuncture is a wonderful tool that can accelerate progress, but coaching is really the foundation for making the big shifts that bring us back into balance.</li>
 </ul>
-<br/><br/>
+<br/>
 <b>Back into Balance Coaching may not be for you if…</b>
+<br/>
 <ul>
 <li>You’re not open to changing your diet or habits</li>
 <li>You want a quick fix. Quick fixes aren’t what we do here (they don’t work). </li>
