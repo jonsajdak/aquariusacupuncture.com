@@ -37,9 +37,7 @@ body {
 #content.coaching {
   background-image: url(/image/headshot.jpg);
   background-repeat: no-repeat;
-  background-size: 100% auto;
-  background-position: left top;
-  background-attachment: fixed;
+  background-size: contain;
 }
 
 #content.herbs {
