@@ -1,8 +1,8 @@
 <?php include('header.php'); ?>
 
-   <link rel="stylesheet" href="/css/about_mobile.css">
+   <link rel="stylesheet" href="/css/coaching_mobile.css">
 
-   <div id="content" class="about">
+   <div id="content" class="coaching">
       <div id="rightsquare">
         <div class="content">
           <div style="font-size:26px">          

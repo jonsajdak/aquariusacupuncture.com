@@ -34,6 +34,10 @@ body {
   background-image: url(/image/background_about_optimized.jpg);
 }
 
+#content.coaching {
+  background-image: url(/image/headshot.jpg);
+}
+
 #content.herbs {
   background: url("/image/herb_full/HongHua__004.jpg") no-repeat;
   background-size: cover;
@@ -190,6 +194,13 @@ body {
   overflow-y: auto;
 }
 
+#content.coaching #rightsquare {
+  top: 125px;
+  width: 480px;
+  bottom: 125px;
+  overflow-y: auto;
+}
+
 #content.home #rightsquare {
   bottom: 50px;
   top: auto;
@@ -219,6 +230,21 @@ body {
 }
 
 #content.about #rightsquare .content .section:last-child {
+  margin-bottom: 0px;
+}
+
+#content.coaching #rightsquare .title {
+  color: #8ca5be;
+  font-size: 48px;
+}
+
+#content.coaching #rightsquare .content .section {
+  font-size: 12px;
+  line-height: 16px;
+  margin-bottom: 22px;
+}
+
+#content.coaching #rightsquare .content .section:last-child {
   margin-bottom: 0px;
 }
 
