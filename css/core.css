@@ -1,62 +1,61 @@
 html,
 body {
-    height:100%;
-    font-family:"Arial",Arial,sans-serif;
-    color:#999999;
-    margin:0px 0px 0px 0px;
-    padding:0px 0px 0px 0px;
-    /*overflow:hidden;*/
+  height: 100%;
+  font-family: "Arial", Arial, sans-serif;
+  color: #999999;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  /*overflow:hidden;*/
 }
 
 /* main content area */
 #content {
-    position:relative;
-    margin:0px 0px 0px 280px;
-    min-height:800px;
-    min-width:1024px;
-    height:100%;
+  position: relative;
+  margin: 0px 0px 0px 280px;
+  min-height: 800px;
+  min-width: 1024px;
+  height: 100%;
 
-    background: url('/image/background_home_optimized.jpg');
-    background-repeat:no-repeat;
-    background-size:cover;
+  background: url("/image/background_home_optimized.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 
-    background-position: top left;
-/*    overflow:hidden;*/
+  background-position: top left;
+  /*    overflow:hidden;*/
 }
 
 #content.acupuncture {
-    background: url('/image2/background_acupuncture.jpg') no-repeat;
-    background-size: cover;
-    background-position: left center;
+  background: url("/image2/background_acupuncture.jpg") no-repeat;
+  background-size: cover;
+  background-position: left center;
 }
-
 
 #content.about {
   background-image: url(/image/background_about_optimized.jpg);
 }
 
 #content.herbs {
-    background: url('/image/herb_full/HongHua__004.jpg') no-repeat;
-    background-size: cover;
-    background-position: left center;
+  background: url("/image/herb_full/HongHua__004.jpg") no-repeat;
+  background-size: cover;
+  background-position: left center;
 }
 
 #content.cupping {
-    background: url('/image2/background_cupping.jpg') no-repeat;
-    background-size: cover;
-    background-position: left center;
+  background: url("/image2/background_cupping.jpg") no-repeat;
+  background-size: cover;
+  background-position: left center;
 }
 
 #content.office {
-    background: url('/image2/background_office.jpg') no-repeat;
-    background-size: cover;
-    background-position: left center;
+  background: url("/image2/background_office.jpg") no-repeat;
+  background-size: cover;
+  background-position: left center;
 }
 
 #content.safety {
-    background: url('/image2/safety1.jpg') no-repeat;
-    background-size: cover;
-    background-position: left center;
+  background: url("/image2/safety1.jpg") no-repeat;
+  background-size: cover;
+  background-position: left center;
 }
 
 #content.mentorship-program {
@@ -67,304 +66,314 @@ body {
   background-image: url(/image2/background_beauty.jpg);
 }
 
-#herbThumbs, #acuThumbs, #officeThumbs, #cuppingThumbs, #safetyThumbs {
-    position:absolute;
-    bottom:32px;
-    right:26px;
-    min-width:960px;
-    max-width:960px;
+#herbThumbs,
+#acuThumbs,
+#officeThumbs,
+#cuppingThumbs,
+#safetyThumbs {
+  position: absolute;
+  bottom: 32px;
+  right: 26px;
+  min-width: 960px;
+  max-width: 960px;
 }
 
 #acuThumbs {
-    bottom:48px;
-    min-width:600px;
-    max-width:600px;
+  bottom: 48px;
+  min-width: 600px;
+  max-width: 600px;
 }
 
 #cuppingThumbs {
-    bottom:48px;
-    min-width:600px;
-    max-width:600px;
+  bottom: 48px;
+  min-width: 600px;
+  max-width: 600px;
 }
 
 #officeThumbs {
-    bottom:48px;
-    min-width:360px;
-    max-width:360px;
+  bottom: 48px;
+  min-width: 360px;
+  max-width: 360px;
 }
 
 #safetyThumbs {
-    bottom:48px;
-    min-width:500px;
-    max-width:500px;
+  bottom: 48px;
+  min-width: 500px;
+  max-width: 500px;
 }
 
-.herb_thumb, .acu_thumb, .office_thumb, .cupping_thumb, .safety_thumb {
-    float:left;
-    margin:16px 0px 0px 16px;
+.herb_thumb,
+.acu_thumb,
+.office_thumb,
+.cupping_thumb,
+.safety_thumb {
+  float: left;
+  margin: 16px 0px 0px 16px;
 
-    width:100px;
-    height:100px;
-    border:2px solid white;
-    -webkit-box-shadow: 6px 3px 3px -2px rgba(0, 0, 0, 0.15);
-            box-shadow: 6px 3px 3px -2px rgba(0, 0, 0, 0.15);
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  -webkit-box-shadow: 6px 3px 3px -2px rgba(0, 0, 0, 0.15);
+  box-shadow: 6px 3px 3px -2px rgba(0, 0, 0, 0.15);
 
-    cursor:pointer;
+  cursor: pointer;
 }
 
-.acu_thumb, .office_thumb, .cupping_thumb {
-    width:100px;
-    height:67px;
+.acu_thumb,
+.office_thumb,
+.cupping_thumb {
+  width: 100px;
+  height: 67px;
 }
 
 .safety_thumb {
-    width:80px;
-    height:100px;
+  width: 80px;
+  height: 100px;
 }
 
-.herb_thumb.active, .acu_thumb.active, .office_thumb.active, .cupping_thumb.active, .safety_thumb.active {
-    border: 4px solid rgba(140,165,190,.8);
-    margin: 14px -2px -2px 14px;
+.herb_thumb.active,
+.acu_thumb.active,
+.office_thumb.active,
+.cupping_thumb.active,
+.safety_thumb.active {
+  border: 4px solid rgba(140, 165, 190, 0.8);
+  margin: 14px -2px -2px 14px;
 }
-
 
 /* right square */
 #rightsquare {
-    position:absolute;
-    top:500px;
-    right:0px;
-    background-color:rgba(255,255,255,.8);
-    width:395px;
+  position: absolute;
+  top: 500px;
+  right: 0px;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 395px;
 
-    padding:18px 32px 29px 32px;
+  padding: 18px 32px 29px 32px;
 
-    font-family:arial;
-    font-size:16px;
-    color: #666666;
+  font-family: arial;
+  font-size: 16px;
+  color: #666666;
 }
 
-#rightsquare .title, #rightsquare .subtitle {
-    font-family:'Lato';
-    font-weight:300;
-    color:#315a84;
+#rightsquare .title,
+#rightsquare .subtitle {
+  font-family: "Lato";
+  font-weight: 300;
+  color: #315a84;
 }
 #rightsquare .title {
-    font-size:56px;
+  font-size: 56px;
 }
 #rightsquare .subtitle {
-    font-size:28px;
-    margin:0px 0px 20px 0px;
+  font-size: 28px;
+  margin: 0px 0px 20px 0px;
 }
 #rightsquare .content {
-    margin:8px 0px 0px 0px;
+  margin: 8px 0px 0px 0px;
 }
 #rightsquare .content .right {
-    margin-top:20px;
-    text-align:right;
+  margin-top: 20px;
+  text-align: right;
 }
 
 #content.home .review {
-  display:none;
+  display: none;
 }
 #content.home .review > div {
-  margin-top:14px;
+  margin-top: 14px;
 }
 
 #content.about #rightsquare {
-  top:125px;
-  width:480px;
-  bottom:125px;
+  top: 125px;
+  width: 480px;
+  bottom: 125px;
   overflow-y: auto;
 }
 
 #content.home #rightsquare {
-  bottom:50px;
-  top:auto;
+  bottom: 50px;
+  top: auto;
 }
 
 #content.office #rightsquare {
-  bottom:160px;
-  width:450px;
-  top:auto;
+  bottom: 160px;
+  width: 450px;
+  top: auto;
 }
 
-
 #content.safety #rightsquare {
-  bottom:180px;
-  width:450px;
-  top:auto;
+  bottom: 180px;
+  width: 450px;
+  top: auto;
 }
 
 #content.about #rightsquare .title {
-  color:#8ca5be;
-  font-size:48px;
+  color: #8ca5be;
+  font-size: 48px;
 }
 
 #content.about #rightsquare .content .section {
-  font-size:12px;
-  line-height:16px;
-  margin-bottom:22px;
+  font-size: 12px;
+  line-height: 16px;
+  margin-bottom: 22px;
 }
 
 #content.about #rightsquare .content .section:last-child {
-  margin-bottom:0px;
+  margin-bottom: 0px;
 }
 
-
 #content.herbs #rightsquare {
-  width:426px;  /*32px left and right padding, 490px total */
-  bottom:278px;
-  top:auto;
+  width: 426px; /*32px left and right padding, 490px total */
+  bottom: 278px;
+  top: auto;
 }
 
 #content.herbs #rightsquare .title {
-  color:#8ca5be;
+  color: #8ca5be;
 }
 
 #content.acupuncture #rightsquare {
-  bottom:160px;
-  top:auto;
+  bottom: 160px;
+  top: auto;
 }
 
 #content.cupping #rightsquare {
-  bottom:160px;
-  top:auto;
+  bottom: 160px;
+  top: auto;
 }
-
-
 
 /* top nav */
 
 #topnav {
-  display:none;
+  display: none;
 }
 #bottomnav {
-  display:none;
+  display: none;
 }
 
 /* Left Nav */
 #leftnav {
-    width:280px;
-    min-height: 770px;
-    height: 100%;
-    background: #FFFFFF;
-    position:fixed;
-    top:0px;
-    left:0px;
-    z-index:200;
+  width: 280px;
+  min-height: 770px;
+  height: 100%;
+  background: #ffffff;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 200;
 
-    -webkit-box-shadow: 8px 0 5px -2px rgba(0, 0, 0, 0.15);
-            box-shadow: 8px 0 5px -2px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 8px 0 5px -2px rgba(0, 0, 0, 0.15);
+  box-shadow: 8px 0 5px -2px rgba(0, 0, 0, 0.15);
 }
 
 #navLogo {
-    margin:46px 0px 0px 52px;
-    width:176px;
-    height:104px;
-/*    background: transparent url('../image/logo.png');
+  margin: 46px 0px 0px 52px;
+  width: 176px;
+  height: 104px;
+  /*    background: transparent url('../image/logo.png');
     background-size:176px 104px; */
 }
 #navLogo img {
-    width:176px;
-    height:104px;
+  width: 176px;
+  height: 104px;
 }
 #navLinks {
-    position:absolute;
-    top:200px;
-    margin:0px 0px 0px 52px;
+  position: absolute;
+  top: 200px;
+  margin: 0px 0px 0px 52px;
 }
 #navButton {
-    position:absolute;
-    top: 512px;
-    margin:0px 0px 0px 52px;
+  position: absolute;
+  top: 520px;
+  margin: 0px 0px 0px 52px;
 }
 #navButton input {
-    background-color:#A7D4C4;
-    color:white;
-    font-family:'Lato';
-    font-weight:300;
-    font-size:20px;
+  background-color: #a7d4c4;
+  color: white;
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 20px;
 
-    width:110px;
-    height:35px;
-    border:0px;
-    border-radius:3px;
-    outline:none;
+  width: 110px;
+  height: 35px;
+  border: 0px;
+  border-radius: 3px;
+  outline: none;
 }
 
 #navEmailSignup {
-    position:absolute;
-    top:557px;
-    margin:0px 0px 0px 52px;
+  position: absolute;
+  top: 565px;
+  margin: 0px 0px 0px 52px;
 }
 .mc-field-group > div {
-  margin:0px 0px 5px 0px;
+  margin: 0px 0px 5px 0px;
 }
-.mc-field-group	> div:last-child {
-  margin:0px 0px 10px 0px;
+.mc-field-group > div:last-child {
+  margin: 0px 0px 10px 0px;
 }
 .mailchimp--label {
-	margin-bottom: 4px;
-	display: block;
+  margin-bottom: 4px;
+  display: block;
 }
 
 #navAddress {
-    position:absolute;
-    bottom:100px;
-    margin:0px 0px 0px 52px;
+  position: absolute;
+  bottom: 100px;
+  margin: 0px 0px 0px 52px;
 
-   font-size:16px;
+  font-size: 16px;
 }
 #navSocialIcons {
-    position:absolute;
-    bottom:30px;
-    margin:00px 0px 0px 52px;
+  position: absolute;
+  bottom: 30px;
+  margin: 00px 0px 0px 52px;
 }
 #navSocialIcons img {
-    margin:0px 20px 0px 0px;
-    height:19px;
+  margin: 0px 20px 0px 0px;
+  height: 19px;
 }
 #mindbody--embed {
   margin-top: 8px;
 }
 #navCopyright {
-    position:absolute;
-    bottom:60px;
-    margin:0px 0px 0px 52px;
+  position: absolute;
+  bottom: 60px;
+  margin: 0px 0px 0px 52px;
 
-   font-size:12px;
+  font-size: 12px;
 }
 .navItem {
-    margin:0px 0px 14px 0px;
+  margin: 0px 0px 14px 0px;
 }
 .navItem a {
-    display:inline-block;
-    text-decoration:none;
-    color:#999999;
-    font-family:Arial;
-    font-size:16px;
-    width:100%;
-    height:100%;
+  display: inline-block;
+  text-decoration: none;
+  color: #999999;
+  font-family: Arial;
+  font-size: 16px;
+  width: 100%;
+  height: 100%;
 }
 .navItem.active a .label {
-  color:#555555;
+  color: #555555;
 }
 
 .navItem a:link {
-    color: #999999;
+  color: #999999;
 }
 .navItem a:visited {
-    color: #999999;
+  color: #999999;
 }
 .navItem a:hover {
-    color: #555555;
+  color: #555555;
 }
 .navItem a:active {
-    color: #555555;
+  color: #555555;
 }
 
 #mobilemenu {
-    display:none;
+  display: none;
 }
 
 /**
@@ -384,7 +393,7 @@ body {
   background-color: #eee;
 }
 .mentorship-program--header {
-  background-color: #AAC4DC;
+  background-color: #aac4dc;
   color: white;
 }
 .mentorship-program--content h1,
@@ -433,13 +442,13 @@ body {
   text-decoration: none;
   padding: 1em;
   text-transform: uppercase;
-  color: #AAC4DC;
-  border: 2px solid #AAC4DC;
+  color: #aac4dc;
+  border: 2px solid #aac4dc;
   display: inline-block;
   margin-right: 1em !important;
 }
 .mentorship-content--button.primary {
-  background-color: #AAC4DC;
+  background-color: #aac4dc;
   color: white;
   margin-right: 0 !important;
 }
@@ -503,41 +512,44 @@ body {
  * Button styles from Unified Practice stylesheet.
  */
 #navButton .btn {
-    font-family: Arial, sans-serif !important;
-    font-weight: normal !important;
-    font-style: normal !important;
-    display: inline-block;
-    padding: 9px 10px;
-    font-size: 15px;
-    line-height: normal;
-    margin-bottom: 0;
-    *margin-left: .3em;
-    *line-height: 20px;
-    text-align: center;
-    color: #ffffff;
-    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-    vertical-align: middle;
-    background-color: #222;
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#555), to(#222));
-    background-image: -webkit-linear-gradient(top, #555, #222);
-    background-image: -o-linear-gradient(top, #555, #222);
-    background-image: -moz-linear-gradient(top, #555, #222);
-    background-image: linear-gradient(to bottom, #555, #222);
-    background-repeat: repeat-x;
-    border-width: 1px;
-    border-style: solid;
-    border-color: #222 #222 #000;
-    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    *zoom: 1;
-    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
-    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
-    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
-    -webkit-font-smoothing: antialiased;
-    text-decoration: none;
-    filter: progid:dximagetransform.microsoft.gradient(startColorstr="#ff555555", endColorstr="#ff222222");
+  font-family: Arial, sans-serif !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  display: inline-block;
+  padding: 9px 10px;
+  font-size: 15px;
+  line-height: normal;
+  margin-bottom: 0;
+  *margin-left: 0.3em;
+  *line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  vertical-align: middle;
+  background-color: #222;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#555), to(#222));
+  background-image: -webkit-linear-gradient(top, #555, #222);
+  background-image: -o-linear-gradient(top, #555, #222);
+  background-image: -moz-linear-gradient(top, #555, #222);
+  background-image: linear-gradient(to bottom, #555, #222);
+  background-repeat: repeat-x;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #222 #222 #000;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    0 1px 2px rgba(0, 0, 0, 0.05);
+  -webkit-font-smoothing: antialiased;
+  text-decoration: none;
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr="#ff555555", endColorstr="#ff222222");
 }
 /*
 #navButton .btn:hover, #navButton .btn:active, #navButton .btn.active {
@@ -548,128 +560,164 @@ body {
 }
 */
 #navButton .btn:hover {
-    background-position: 0 -15px;
-    -webkit-transition: background-position .1s linear;
-    -moz-transition: background-position .1s linear;
-    -ms-transition: background-position .1s linear;
-    -o-transition: background-position .1s linear;
-    transition: background-position .1s linear;
+  background-position: 0 -15px;
+  -webkit-transition: background-position 0.1s linear;
+  -moz-transition: background-position 0.1s linear;
+  -ms-transition: background-position 0.1s linear;
+  -o-transition: background-position 0.1s linear;
+  transition: background-position 0.1s linear;
 }
-#navButton .btn.active, #navButton .btn:active {
-    background-image: none;
-    outline: 0;
-    -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
-    -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+#navButton .btn.active,
+#navButton .btn:active {
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15),
+    0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15),
+    0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 #navButton .btn.btn-medium {
-    padding: 4px 6px 4px;
-    font-size: 13px;
-    line-height: 18px;
+  padding: 4px 6px 4px;
+  font-size: 13px;
+  line-height: 18px;
 }
 #navButton .btn.btn-small {
-    padding: 4px 7px;
-    font-size: 11px;
-    line-height: 16px;
+  padding: 4px 7px;
+  font-size: 11px;
+  line-height: 16px;
 }
-#navButton .btn.btn-medium, #navButton .btn.btn-small {
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
+#navButton .btn.btn-medium,
+#navButton .btn.btn-small {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }
 #navButton .btn span {
-    background-image: url('http://www.unifiedpractice.com/shared/img/calendars.png');
-    background-repeat: no-repeat;
-    margin-left: -5px;
+  background-image: url("http://www.unifiedpractice.com/shared/img/calendars.png");
+  background-repeat: no-repeat;
+  margin-left: -5px;
 }
-#navButton .btn.btn-large span, #navButton .btn span {
-    padding-left: 24px;
-    background-position: 1px -2px;
+#navButton .btn.btn-large span,
+#navButton .btn span {
+  padding-left: 24px;
+  background-position: 1px -2px;
 }
 #navButton .btn.btn-medium span {
-    padding: 2px 0 2px 22px;
-    background-position: 1px -1px;
+  padding: 2px 0 2px 22px;
+  background-position: 1px -1px;
 }
 #navButton .btn.btn-small span {
-    background-position: 0 -60px;
-    padding: 2px 0 2px 20px;
-    margin-left: -5px;
+  background-position: 0 -60px;
+  padding: 2px 0 2px 20px;
+  margin-left: -5px;
 }
-#navButton .btn.btn-large.up-white-btn span, #navButton .btn.up-white-btn span {
-    background-position: 1px -40px;
+#navButton .btn.btn-large.up-white-btn span,
+#navButton .btn.up-white-btn span {
+  background-position: 1px -40px;
 }
 #navButton .btn.btn-medium.up-white-btn span {
-    background-position: 1px -39px;
+  background-position: 1px -39px;
 }
 #navButton .btn.btn-small.up-white-btn span {
-    background-position: 0 -98px;
+  background-position: 0 -98px;
 }
-#navButton .btn.up-green-btn.active, #navButton .btn.up-blue-btn.active, #navButton .btn.up-black-btn.active, #navButton .btn.up-white-btn.active, #navButton .btn.up-orange-btn.active {
-    color: rgba(255, 255, 255, 0.75);
+#navButton .btn.up-green-btn.active,
+#navButton .btn.up-blue-btn.active,
+#navButton .btn.up-black-btn.active,
+#navButton .btn.up-white-btn.active,
+#navButton .btn.up-orange-btn.active {
+  color: rgba(255, 255, 255, 0.75);
 }
 #navButton .btn.up-white-btn {
-    color: #333333 !important;
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
-    background-color: #f5f5f5;
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#e6e6e6));
-    background-image: -webkit-linear-gradient(top, #fff, #e6e6e6);
-    background-image: -o-linear-gradient(top, #fff, #e6e6e6);
-    background-image: linear-gradient(to bottom, #fff, #e6e6e6);
-    background-image: -moz-linear-gradient(top, #fff, #e6e6e6);
-    border-color: #bbb;
-    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
-    border-bottom-color: #a2a2a2;
-    filter: progid:dximagetransform.microsoft.gradient(startColorstr="#ffffffff", endColorstr="#ffe6e6e6");
+  color: #333333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  background-color: #f5f5f5;
+  background-image: -webkit-gradient(
+    linear,
+    0 0,
+    0 100%,
+    from(#fff),
+    to(#e6e6e6)
+  );
+  background-image: -webkit-linear-gradient(top, #fff, #e6e6e6);
+  background-image: -o-linear-gradient(top, #fff, #e6e6e6);
+  background-image: linear-gradient(to bottom, #fff, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #fff, #e6e6e6);
+  border-color: #bbb;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-bottom-color: #a2a2a2;
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr="#ffffffff", endColorstr="#ffe6e6e6");
 }
-#navButton .btn.up-white-btn:hover, #navButton .btn.up-white-btn:active, #navButton .btn.up-white-btn.active {
-    background-color: #e6e6e6;
+#navButton .btn.up-white-btn:hover,
+#navButton .btn.up-white-btn:active,
+#navButton .btn.up-white-btn.active {
+  background-color: #e6e6e6;
 }
 #navButton .btn.up-green-btn {
-    background-color: #558527;
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#73b435), to(#558527));
-    background-image: -webkit-linear-gradient(top, #73b435, #558527);
-    background-image: -o-linear-gradient(top, #73b435, #558527);
-    background-image: linear-gradient(to bottom, #73b435, #558527);
-    background-image: -moz-linear-gradient(top, #73b435, #558527);
-    border-color: #558527 #558527 #4e7a24;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff73b435", endColorstr="#ff558527");
+  background-color: #558527;
+  background-image: -webkit-gradient(
+    linear,
+    0 0,
+    0 100%,
+    from(#73b435),
+    to(#558527)
+  );
+  background-image: -webkit-linear-gradient(top, #73b435, #558527);
+  background-image: -o-linear-gradient(top, #73b435, #558527);
+  background-image: linear-gradient(to bottom, #73b435, #558527);
+  background-image: -moz-linear-gradient(top, #73b435, #558527);
+  border-color: #558527 #558527 #4e7a24;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff73b435", endColorstr="#ff558527");
 }
 #navButton .btn.up-blue-btn {
-    background-color: #396683;
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#6d9fbf), to(#396683));
-    background-image: -webkit-linear-gradient(top, #6d9fbf, #396683);
-    background-image: -o-linear-gradient(top, #6d9fbf, #396683);
-    background-image: linear-gradient(to bottom, #6d9fbf, #396683);
-    background-image: -moz-linear-gradient(top, #6d9fbf, #396683);
-    border-color: #396683 #396683 #315870;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff6d9fbf", endColorstr="#ff396683");
+  background-color: #396683;
+  background-image: -webkit-gradient(
+    linear,
+    0 0,
+    0 100%,
+    from(#6d9fbf),
+    to(#396683)
+  );
+  background-image: -webkit-linear-gradient(top, #6d9fbf, #396683);
+  background-image: -o-linear-gradient(top, #6d9fbf, #396683);
+  background-image: linear-gradient(to bottom, #6d9fbf, #396683);
+  background-image: -moz-linear-gradient(top, #6d9fbf, #396683);
+  border-color: #396683 #396683 #315870;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff6d9fbf", endColorstr="#ff396683");
 }
 #navButton .btn.up-orange-btn {
-    background-color: #f60;
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ff954f), to(#f60));
-    background-image: -webkit-linear-gradient(top, #ff954f, #f60);
-    background-image: -o-linear-gradient(top, #ff954f, #f60);
-    background-image: linear-gradient(to bottom, #ff954f, #f60);
-    background-image: -moz-linear-gradient(top, #ff954f, #f60);
-    border-color: #f60 #f60 #ad6704;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffff954f", endColorstr="#ffff6600");
+  background-color: #f60;
+  background-image: -webkit-gradient(
+    linear,
+    0 0,
+    0 100%,
+    from(#ff954f),
+    to(#f60)
+  );
+  background-image: -webkit-linear-gradient(top, #ff954f, #f60);
+  background-image: -o-linear-gradient(top, #ff954f, #f60);
+  background-image: linear-gradient(to bottom, #ff954f, #f60);
+  background-image: -moz-linear-gradient(top, #ff954f, #f60);
+  border-color: #f60 #f60 #ad6704;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffff954f", endColorstr="#ffff6600");
 }
 #navButton .btn {
-    background-image:none !important;
-    background-color:#A7D4C4;
-    color:white;
-    font-family:'Lato' !important;
-    font-weight:400;
-    font-size:20px;
+  background-image: none !important;
+  background-color: #a7d4c4;
+  color: white;
+  font-family: "Lato" !important;
+  font-weight: 400;
+  font-size: 20px;
 
-    height:25px !important;
-    border:0px !important;
-    border-radius:3px !important;
-    outline:none !important;
-    text-shadow:none !important;
-    padding:10px 4px 0px 4px !important;
-    text-align:center !important;
+  height: 25px !important;
+  border: 0px !important;
+  border-radius: 3px !important;
+  outline: none !important;
+  text-shadow: none !important;
+  padding: 10px 4px 0px 4px !important;
+  text-align: center !important;
 }
 #book_button {
   font-size: 15px !important;
@@ -680,14 +728,14 @@ body {
 }
 
 #navButton .check-insurance {
-	margin-top: 1em;
+  margin-top: 1em;
 }
 #navButton .check-insurance span {
-	font-size: 0.9em;
+  font-size: 0.9em;
 }
 #navButton .check-insurance .btn {
-	font-size: 14px !important;
+  font-size: 14px !important;
   background-color: transparent !important;
-	color: #a7d4c4;
-	border: 1px solid #a7d4c4 !important;
+  color: #a7d4c4;
+  border: 1px solid #a7d4c4 !important;
 }
