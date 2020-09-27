@@ -3,8 +3,7 @@
    <link rel="stylesheet" href="/css/coaching_mobile.css">
 
    <div id="content" class="coaching">
-      <div id="rightsquare">
-        <div class="content">
+    
           <div style="font-size:26px">          
           Holistic Health Coaching, specializing in Skin, Migraines, Fertility & Optimal Health
           </div>
@@ -118,8 +117,7 @@ Still not sure if this is the right path for you?
 
 <br/>
           </div>
-        </div>
-      </div>
+     
    </div>
 
 <?php include ('footer.php'); ?>
