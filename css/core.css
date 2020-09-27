@@ -197,9 +197,9 @@ body {
 }
 
 #content.coaching #rightsquare {
-  top: 125px;
-  width: 480px;
-  bottom: 125px;
+  top: 0px;
+  width: 600px;
+  bottom: 0px;
   overflow-y: auto;
 }
 
