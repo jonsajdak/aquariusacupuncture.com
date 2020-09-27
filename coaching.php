@@ -13,7 +13,7 @@ Based in (but not limited by)
 <br/><br/>
 Traditional Chinese Medicine
           </div>
-          <div style="font-size:12px">     
+          <div style="font-size:14px">     
 <br/><br/>
 Your body is designed to be healthy, strong, energetic, beautiful. But it evolved within a completely different context than the one we live in now - different food, different lifestyle, different kinds of stress. As soon as humans began creating our own environments, we began throwing ourselves out of balance.
 <br/><br/>
@@ -37,7 +37,7 @@ I’ll be honest with you: There are no magic pills. Feeling really good *most o
 <br/><br/>
 When we work together, we will create a personalized plan to help you achieve optimal health, clear vibrant skin, joyful reproduction, headache free days, and more energy to fuel your life. My goal is to teach you how to notice how you feel, and teach you what to do to improve it, so you become empowered to heal yourself.
 <br/><br/>
-<div style="font-size:15px;">   
+<div style="font-size:16px;">   
 As our coaching progresses, you will get to know yourself more deeply. You’ll learn to notice your reactions to what you do, what you eat, how you sleep. You’ll learn to feel what you actually feel, without the interpretations of outside stories (from society, from parents, from friends). 
 <br/><br/>
 And as you start aligning your diet and lifestyle around what makes you feel good, you’ll find unexpected clarity in other aspects of your life. Empowering you further.
