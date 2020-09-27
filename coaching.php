@@ -4,8 +4,6 @@
 
    <div id="content" class="about">
       <div id="rightsquare">
-        <div class="title">Dr. Sarah Emily Sajdak</div>
-        <div class="subtitle">DAOM, L.Ac</div>
         <div class="content">
           <div style="font-size:26px">          
           Holistic Health Coaching, specializing in Skin, Migraines, Fertility & Optimal Health
