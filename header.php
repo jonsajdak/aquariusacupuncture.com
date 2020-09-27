@@ -77,8 +77,8 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/safety' ? 'active' : '' ?>">
         <a href="/safety">COVID-19 safety</a>
       </div>
-      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/suppliments' ? 'active' : '' ?>">
-	<a href="https://us.fullscript.com/welcome/aquariusacupuncture">suppliments</a>
+      <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/supplements' ? 'active' : '' ?>">
+	<a href="https://us.fullscript.com/welcome/aquariusacupuncture">supplements</a>
       </div>
       <div class="menuitem <?= $_SERVER['REQUEST_URI'] == '/coaching' ? 'active' : '' ?>">
         <a href="/coaching">coaching</a>
@@ -130,14 +130,14 @@ mixpanel.init("e2ed76531266dfb38fcd7b8bf25ee504");</script><!-- end Mixpanel -->
             <div class="label">COVID-19 Safety</div>
           </a>
         </div>
-        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/suppliments' ? 'active' : '' ?>" id="menuSuppliments">
+        <div class="navItem <?= $_SERVER['REQUEST_URI'] == '/supplements' ? 'active' : '' ?>" id="menuSupplements">
           <a href="https://us.fullscript.com/welcome/aquariusacupuncture">
-            <div class="label">suppliments</div>
+            <div class="label">supplements</div>
           </a>
         </div>
 	<div class="navItem <?= $_SERVER['REQUEST_URI'] == '/coaching' ? 'active' : '' ?>" id="menuCoaching">
           <a href="/coaching">
-            <div class="label">suppliments</div>
+            <div class="label">coaching</div>
           </a>
         </div>
       </div>
