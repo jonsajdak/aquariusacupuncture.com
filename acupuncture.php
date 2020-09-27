@@ -12,7 +12,7 @@
      </div>
      <div id="acuThumbs">
        <div class="acu_thumb active" title="Acupuncture">
-           <img src="image2/acupuncture_thumbs/background_acupuncture.jpg">
+          <img src="image2/acupuncture_thumbs/background_acupuncture.jpg">
        </div>
        <div class="acu_thumb" title="Acupuncture 1">
            <img src="image2/acupuncture_thumbs/acupuncture1.jpg">

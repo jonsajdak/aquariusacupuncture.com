@@ -275,7 +275,7 @@ body {
 }
 #navButton {
     position:absolute;
-    top: 492px;
+    top: 512px;
     margin:0px 0px 0px 52px;
 }
 #navButton input {
@@ -294,7 +294,7 @@ body {
 
 #navEmailSignup {
     position:absolute;
-    top:537px;
+    top:557px;
     margin:0px 0px 0px 52px;
 }
 .mc-field-group > div {

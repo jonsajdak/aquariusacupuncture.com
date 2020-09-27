@@ -12,6 +12,7 @@ RewriteRule ^mentorship$ /mentorship-program.php
 RewriteRule ^mentorship-pricing$ /mentorship-pricing.php
 RewriteRule ^beauty$ /beauty.php
 RewriteRule ^safety$ /safety.php
+RewriteRule ^coaching$ /coaching.php
 
 #AuthType Basic
 #AuthName "Password Protected Area"
