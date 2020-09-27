@@ -13,13 +13,15 @@ Based in (but not limited by)
 <br/><br/>
 Traditional Chinese Medicine
           </div>
-          <div style="font-size:11px">     
+          <div style="font-size:12px">     
 <br/><br/>
 Your body is designed to be healthy, strong, energetic, beautiful. But it evolved within a completely different context than the one we live in now - different food, different lifestyle, different kinds of stress. As soon as humans began creating our own environments, we began throwing ourselves out of balance.
 <br/><br/>
 Our work now is to find that balance again, and create an environment that supports our inherent abilities to heal and thrive, using all of the resources at our disposal.
 <br/><br/>
+<div style="font-size:14px; font-weight:500;">   
 You may be here because you’re searching for holistic remedies for acne, natural migraine medicine, or natural fertility treatments - these are my specialties.
+</div>
 <br/><br/>
 But holistic health coaching, based in Traditional Chinese Medicine, doesn’t just heal one issue. 
 By carefully observing the whole body, the whole person and the whole life, we get to the root causes of health issues and create an individualized plan to help you feel your best.
@@ -35,9 +37,12 @@ I’ll be honest with you: There are no magic pills. Feeling really good *most o
 <br/><br/>
 When we work together, we will create a personalized plan to help you achieve optimal health, clear vibrant skin, joyful reproduction, headache free days, and more energy to fuel your life. My goal is to teach you how to notice how you feel, and teach you what to do to improve it, so you become empowered to heal yourself.
 <br/><br/>
+<div style="font-size:15px;">   
 As our coaching progresses, you will get to know yourself more deeply. You’ll learn to notice your reactions to what you do, what you eat, how you sleep. You’ll learn to feel what you actually feel, without the interpretations of outside stories (from society, from parents, from friends). 
+<br/><br/>
 And as you start aligning your diet and lifestyle around what makes you feel good, you’ll find unexpected clarity in other aspects of your life. Empowering you further.
 I will use all of the tools at my disposal to find the unique combination that works best for you. Some of what we’ll explore includes:
+  </div>   
   <br/><br/>
   <ul>
 <li>Herbs, supplements and a whole-foods based diet (food as medicine)</li>
@@ -50,7 +55,8 @@ I will use all of the tools at my disposal to find the unique combination that w
 </ul>
 <br/><br/>
 Here’s how we can start your holistic health journey.
-Back into Balance: Online Holistic Health Coaching to balance the body for beautiful skin, headache relief, fertility & optimal health 5 half-hour coaching sessions online, one session every other week, for 10 weeks
+<h1>Back into Balance: Online Holistic Health Coaching to balance the body for beautiful skin, headache relief, fertility & optimal health</h1>
+<br/> 5 half-hour coaching sessions online, one session every other week, for 10 weeks
 <br/><br/>
 Ten weeks is enough time to see significant results from our work together, and it’s long enough to form new habits you’ll want to stick with (because you’ll love the results). In those ten weeks, here’s what we’ll do.
 <br/><br/>
