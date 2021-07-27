@@ -2,7 +2,6 @@
 
    <script type="text/javascript" src="/js/home.js"></script>
 
-
    <div id="content" class="home">
       <div id="rightsquare">
         <div class="title">Dr. Sarah Emily Sajdak</div>
